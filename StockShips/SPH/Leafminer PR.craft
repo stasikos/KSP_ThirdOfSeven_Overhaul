@@ -2,7 +2,7 @@ ship = Leafminer PR
 version = 1.2.2
 description = 
 type = SPH
-size = 10.0677967,3.00000286,8.02641106
+size = 8.90612984,3.27949238,8.02641964
 PART
 {
 	part = FS.BiplaneCockpit_4294742870
@@ -182,7 +182,7 @@ PART
 {
 	part = FS.OblongToRoundAdapter_4294738826
 	partName = Part
-	pos = 0,5,1.02782023
+	pos = 0,5,1.0278219
 	attPos = 0,0,0
 	attPos0 = 0,1.02782011,-1.1920929E-07
 	rot = 0.707106829,0,0,0.707106829
@@ -237,7 +237,7 @@ PART
 {
 	part = FS.BiplaneEngine_4294740590
 	partName = Part
-	pos = 0,5,1.34132051
+	pos = 0,5,1.34132218
 	attPos = 0,0,0
 	attPos0 = 0,0.313500196,0
 	rot = 0.707106829,0,0,0.707106829
@@ -467,7 +467,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = FS.BiplaneWingRound_4294716152
+	link = FS.BiplaneWingTip_4294714318
 	sym = FS.BiplaneWingMain_4294725886
 	srfN = srfAttach,FS.BiplaneWingCenter_4294732028
 	EVENTS
@@ -500,8 +500,8 @@ PART
 		isEnabled = True
 		mirrorDeploy = False
 		usesMirrorDeploy = True
-		ignorePitch = False
-		ignoreYaw = False
+		ignorePitch = True
+		ignoreYaw = True
 		ignoreRoll = False
 		deploy = False
 		deployInvert = False
@@ -553,7 +553,7 @@ PART
 {
 	part = FS.BiplaneWingMain_4294725886
 	partName = Part
-	pos = 0.781250238,6.25979662,0.190840244
+	pos = 0.781250238,6.2597971,0.190840244
 	attPos = 0,-0.0179948807,-0.0180426836
 	attPos0 = 0.781250298,0.0756314471,-0.730816364
 	rot = -3.09086197E-08,0.707106829,0.707106829,-3.09086197E-08
@@ -573,7 +573,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = FS.BiplaneWingRound_4294716096
+	link = FS.BiplaneWingTip_4294593024
 	sym = FS.BiplaneWingMain_4294727164
 	srfN = srfAttach,FS.BiplaneWingCenter_4294732028
 	EVENTS
@@ -606,8 +606,8 @@ PART
 		isEnabled = True
 		mirrorDeploy = True
 		usesMirrorDeploy = True
-		ignorePitch = False
-		ignoreYaw = False
+		ignorePitch = True
+		ignoreYaw = True
 		ignoreRoll = False
 		deploy = False
 		deployInvert = False
@@ -659,7 +659,7 @@ PART
 {
 	part = FS.BiplaneCockpit_4294722248
 	partName = Part
-	pos = 0,5,-1.13970017
+	pos = 0,5,-1.13970184
 	attPos = 0,0,0
 	attPos0 = 0,-1.13970006,1.1920929E-07
 	rot = 0.707106829,0,0,0.707106829
@@ -828,7 +828,7 @@ PART
 {
 	part = FS.BiplaneTailFuselage_4294737406
 	partName = Part
-	pos = 0,5,-1.56508088
+	pos = 0,5,-1.56508422
 	attPos = 0,0,0
 	attPos0 = 0,-0.425380498,1.19209261E-07
 	rot = 0.707106829,0,0,0.707106829
@@ -896,7 +896,7 @@ PART
 {
 	part = FS.BiplaneWingShort_4294719172
 	partName = Part
-	pos = -1.20000005,4.5999999,-0.400000304
+	pos = -1.20000005,4.5999999,-0.400001138
 	attPos = 0.054295063,-0.0388528109,-0.0479106605
 	attPos0 = -1.25429511,-0.361147374,0.447910905
 	rot = -0.707106948,-1.0658141E-14,4.21468442E-08,-0.707106709
@@ -916,7 +916,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = FS.BiplaneWingShort_4294717702
+	link = FS.BiplaneWingRound_4294716152
 	sym = FS.BiplaneWingShort_4294719130
 	srfN = srfAttach,FS.BiplaneCockpit_4294742870
 	EVENTS
@@ -966,10 +966,10 @@ PART
 {
 	part = FS.BiplaneWingShort_4294719130
 	partName = Part
-	pos = 1.20000005,4.5999999,-0.400000244
+	pos = 1.20000005,4.5999999,-0.400001079
 	attPos = -0.054295063,-0.0388526618,-0.0479106903
 	attPos0 = 1.25429511,-0.361147463,0.447910875
-	rot = -7.30554746E-08,0.707106829,0.707106829,-3.09086197E-08
+	rot = -7.30554746E-08,0.707106829,0.707106829,-3.09086161E-08
 	attRot = 0,0,0,1
 	attRot0 = -2.98023224E-08,1,0,-7.35137107E-08
 	mir = 1,1,1
@@ -986,7 +986,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = FS.BiplaneWingShort_4294717660
+	link = FS.BiplaneWingRound_4294535852
 	sym = FS.BiplaneWingShort_4294719172
 	srfN = srfAttach,FS.BiplaneCockpit_4294742870
 	EVENTS
@@ -1034,500 +1034,12 @@ PART
 }
 PART
 {
-	part = FS.BiplaneWingShort_4294717702
-	partName = Part
-	pos = -2.75842714,4.5999999,-0.400000393
-	attPos = 0.00432300568,-0.00877443422,-0.0290789325
-	attPos0 = -1.5627501,0.00877425168,0.0290789958
-	rot = -0.707107186,1.77635684E-15,4.21468229E-08,-0.707106471
-	attRot = 0,0,0,1
-	attRot0 = -1.7881392E-07,-8.88178335E-15,1.77635663E-15,-1
-	mir = 1,1,1
-	symMethod = Mirror
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	link = FS.BiplaneWingTip_4294714318
-	sym = FS.BiplaneWingShort_4294717660
-	srfN = srfAttach,FS.BiplaneWingShort_4294719172
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleLiftingSurface
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = FStextureSwitch
-		isEnabled = True
-		selectedTexture = 0
-		selectedTextureURL = Firespitter/Assets/Biplane_01_WHITE
-		selectedMapURL = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
-	part = FS.BiplaneWingShort_4294717660
-	partName = Part
-	pos = 2.75842714,4.5999999,-0.400000483
-	attPos = 0.00432300568,-0.0087744277,0.0290789232
-	attPos0 = -1.56274903,0.00877409615,-0.0290791523
-	rot = -7.30554675E-08,0.70710659,0.707107067,-3.09086161E-08
-	attRot = 0,0,0,1
-	attRot0 = -3.27825518E-07,-7.10542651E-15,-2.48689924E-14,1
-	mir = 1,1,1
-	symMethod = Mirror
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	link = FS.BiplaneWingTip_4294714228
-	sym = FS.BiplaneWingShort_4294717702
-	srfN = srfAttach,FS.BiplaneWingShort_4294719130
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleLiftingSurface
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = FStextureSwitch
-		isEnabled = True
-		selectedTexture = 0
-		selectedTextureURL = Firespitter/Assets/Biplane_01_WHITE
-		selectedMapURL = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
-	part = FS.BiplaneWingRound_4294716152
-	partName = Part
-	pos = -3.88125038,6.2597971,-0.00915944576
-	attPos = 0.0250008106,-0.0288116634,-0.0214915127
-	attPos0 = -3.12500095,-0.171187907,0.0214905944
-	rot = -0.707106948,-1.0658141E-14,4.21468442E-08,-0.707106709
-	attRot = 0,0,0,1
-	attRot0 = 5.96046448E-08,-2.98023224E-08,-2.98023224E-08,1
-	mir = 1,1,1
-	symMethod = Mirror
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = FS.BiplaneWingRound_4294716096
-	srfN = srfAttach,FS.BiplaneWingMain_4294727164
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleLiftingSurface
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleControlSurface
-		isEnabled = True
-		mirrorDeploy = True
-		usesMirrorDeploy = True
-		ignorePitch = False
-		ignoreYaw = False
-		ignoreRoll = False
-		deploy = False
-		deployInvert = False
-		partDeployInvert = False
-		authorityLimiter = 100
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ActionToggle
-			{
-				actionGroup = None
-			}
-			ActionExtend
-			{
-				actionGroup = None
-			}
-			ActionRetract
-			{
-				actionGroup = None
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = FStextureSwitch
-		isEnabled = True
-		selectedTexture = 0
-		selectedTextureURL = Firespitter/Assets/Biplane_01_WHITE
-		selectedMapURL = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
-	part = FS.BiplaneWingRound_4294716096
-	partName = Part
-	pos = 3.88125038,6.2597971,-0.00915980339
-	attPos = 0.0250008106,-0.0288116634,0.0214915145
-	attPos0 = -3.12499881,-0.171188265,-0.0214909874
-	rot = -7.30554746E-08,0.707106829,0.707106829,-3.09086197E-08
-	attRot = 0,0,0,1
-	attRot0 = 1.30270078E-15,2.98023259E-08,-2.98023188E-08,1
-	mir = 1,1,1
-	symMethod = Mirror
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = FS.BiplaneWingRound_4294716152
-	srfN = srfAttach,FS.BiplaneWingMain_4294725886
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleLiftingSurface
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleControlSurface
-		isEnabled = True
-		mirrorDeploy = False
-		usesMirrorDeploy = True
-		ignorePitch = False
-		ignoreYaw = False
-		ignoreRoll = False
-		deploy = False
-		deployInvert = False
-		partDeployInvert = False
-		authorityLimiter = 100
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ActionToggle
-			{
-				actionGroup = None
-			}
-			ActionExtend
-			{
-				actionGroup = None
-			}
-			ActionRetract
-			{
-				actionGroup = None
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = FStextureSwitch
-		isEnabled = True
-		selectedTexture = 0
-		selectedTextureURL = Firespitter/Assets/Biplane_01_WHITE
-		selectedMapURL = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
-	part = FS.BiplaneWingTip_4294714318
-	partName = Part
-	pos = -3.53578353,4.5999999,-0.400000572
-	attPos = 0.00389385223,0.0159876365,0.0109605398
-	attPos0 = -0.781250238,-0.0159878619,-0.0109604932
-	rot = -0.707107246,-5.32907052E-15,4.21468229E-08,-0.707106411
-	attRot = 0,0,0,1
-	attRot0 = 1.49011598E-07,5.32907009E-15,-3.55271283E-15,1
-	mir = 1,1,1
-	symMethod = Mirror
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = FS.BiplaneWingTip_4294714228
-	srfN = srfAttach,FS.BiplaneWingShort_4294717702
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleLiftingSurface
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = FStextureSwitch
-		isEnabled = True
-		selectedTexture = 0
-		selectedTextureURL = Firespitter/Assets/Biplane_01_WHITE
-		selectedMapURL = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
-	part = FS.BiplaneWingTip_4294714228
-	partName = Part
-	pos = 3.53578353,4.5999999,-0.400000721
-	attPos = 0.00389409065,0.0159876384,-0.0109605361
-	attPos0 = -0.781249881,-0.0159879234,0.0109604215
-	rot = -7.30554746E-08,0.707106531,0.707107127,-3.09086055E-08
-	attRot = 0,0,0,1
-	attRot0 = -8.94069672E-08,-7.10542397E-15,-1.77635684E-14,1
-	mir = 1,1,1
-	symMethod = Mirror
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = FS.BiplaneWingTip_4294714318
-	srfN = srfAttach,FS.BiplaneWingShort_4294717660
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleLiftingSurface
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = FStextureSwitch
-		isEnabled = True
-		selectedTexture = 0
-		selectedTextureURL = Firespitter/Assets/Biplane_01_WHITE
-		selectedMapURL = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
 	part = FS.BiplaneRudder_4294712134
 	partName = Part
-	pos = 2.62523567E-08,5.30029249,-5.07228136
+	pos = 2.62523567E-08,5.30029249,-5.07228804
 	attPos = 0,0,0
 	attPos0 = 2.62523567E-08,-3.50719666,-0.300291985
-	rot = -0.477698207,0.521348715,0.477698207,-0.521348715
+	rot = -0.477698267,0.521348774,0.477698267,-0.521348774
 	attRot = 0,0,0,1
 	attRot0 = 0.03086555,0.706432819,-0.03086555,-0.706432819
 	mir = 1,1,1
@@ -1560,9 +1072,9 @@ PART
 		isEnabled = True
 		mirrorDeploy = False
 		usesMirrorDeploy = True
-		ignorePitch = False
+		ignorePitch = True
 		ignoreYaw = False
-		ignoreRoll = False
+		ignoreRoll = True
 		deploy = False
 		deployInvert = False
 		partDeployInvert = False
@@ -1613,7 +1125,7 @@ PART
 {
 	part = FS.BiplaneElevator_4294707370
 	partName = Part
-	pos = -0.126467273,5.00000048,-5.08520412
+	pos = -0.126467273,5.00000048,-5.0852108
 	attPos = 0,0,0
 	attPos0 = -0.126467273,-3.52011943,-2.38418366E-07
 	rot = -0.706255317,0.0346922129,-0.0345506817,-0.706262231
@@ -1666,8 +1178,8 @@ PART
 		mirrorDeploy = False
 		usesMirrorDeploy = True
 		ignorePitch = False
-		ignoreYaw = False
-		ignoreRoll = False
+		ignoreYaw = True
+		ignoreRoll = True
 		deploy = False
 		deployInvert = False
 		partDeployInvert = False
@@ -1718,10 +1230,10 @@ PART
 {
 	part = FS.BiplaneElevator_4294706714
 	partName = Part
-	pos = 0.126467273,5.00000048,-5.08520412
+	pos = 0.126467273,5.00000048,-5.0852108
 	attPos = 0,0,0
 	attPos0 = 0.126467273,-3.52011943,-2.38418366E-07
-	rot = 0.034550637,0.70626229,0.706255257,-0.0346922353
+	rot = 0.0345506109,0.70626229,0.706255257,-0.0346922092
 	attRot = 0,0,0,1
 	attRot0 = 0.0489621013,0.998800635,-4.94718506E-06,-0.000100124613
 	mir = 1,1,1
@@ -1771,8 +1283,8 @@ PART
 		mirrorDeploy = True
 		usesMirrorDeploy = True
 		ignorePitch = False
-		ignoreYaw = False
-		ignoreRoll = False
+		ignoreYaw = True
+		ignoreRoll = True
 		deploy = False
 		deployInvert = False
 		partDeployInvert = False
@@ -1823,10 +1335,10 @@ PART
 {
 	part = FS.BiplaneWheel_4294701664
 	partName = Part
-	pos = -0.307466805,4.78723526,0.299445331
-	attPos = -0.00574499369,5.96046448E-08,-0.676543295
+	pos = -0.5,4.42833376,0.188483685
+	attPos = -0.198278189,-0.110961914,-0.317641795
 	attPos0 = -0.301721811,0.299445271,0.889308035
-	rot = -8.94069672E-08,0.0055553019,0,0.999984741
+	rot = -8.94069672E-08,0.00555530097,0,0.999984741
 	attRot = 0,0,-0.707106769,0.707106769
 	attRot0 = -0.707095981,0.00392819149,-0.00392819149,0.707095861
 	mir = 1,1,1
@@ -1922,8 +1434,8 @@ PART
 {
 	part = FS.BiplaneWheel_4294699142
 	partName = Part
-	pos = 0.307466805,4.78723526,0.299445391
-	attPos = 0.00574499369,1.1920929E-07,-0.676543295
+	pos = 0.5,4.42833376,0.188483685
+	attPos = 0.198278189,-0.110961914,-0.317641795
 	attPos0 = 0.301721811,0.299445271,0.889308035
 	rot = 0,0.999984682,0,0.0055552586
 	attRot = 0,0,-0.707106769,0.707106769
@@ -2021,7 +1533,7 @@ PART
 {
 	part = FS.BiplaneSkid_4294697152
 	partName = Part
-	pos = 0,4.72253323,-5.10221624
+	pos = 0,4.72253323,-5.10222292
 	attPos = 0,0,0
 	attPos0 = 0,-3.53713155,0.277466774
 	rot = 0.740555763,0,0,0.671995163
@@ -2050,5 +1562,353 @@ PART
 	}
 	PARTDATA
 	{
+	}
+}
+PART
+{
+	part = FS.BiplaneWingTip_4294714318
+	partName = Part
+	pos = -3.90625143,6.26128578,0.00265836716
+	attPos = 0.00389385223,0.0159876365,0.0109605398
+	attPos0 = -3.12500119,-0.188181832,-0.00148965407
+	rot = -0.707106888,0,-4.21468513E-08,-0.707106769
+	attRot = 0,0,0,1
+	attRot0 = -5.96046448E-08,-2.98023224E-08,-2.98023224E-08,-1
+	mir = 1,1,1
+	symMethod = Mirror
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 0
+	sidx = -1
+	sqor = -1
+	sepI = -1
+	attm = 1
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = FS.BiplaneWingTip_4294593024
+	srfN = srfAttach,FS.BiplaneWingMain_4294727164
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleLiftingSurface
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FStextureSwitch
+		isEnabled = True
+		selectedTexture = 0
+		selectedTextureURL = Firespitter/Assets/Biplane_01_WHITE
+		selectedMapURL = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = FS.BiplaneWingTip_4294593024
+	partName = Part
+	pos = 3.90625143,6.26128578,0.00265800953
+	attPos = 0.00389385223,0.0159876365,0.0109605398
+	attPos0 = -3.12499905,-0.18818219,0.00148842705
+	rot = 1.1238213E-08,0.707106829,0.707106829,-3.09086232E-08
+	attRot = 0,0,0,1
+	attRot0 = -1.30270046E-15,-2.98023117E-08,2.98023117E-08,1
+	mir = 1,1,1
+	symMethod = Mirror
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 0
+	sidx = -1
+	sqor = -1
+	sepI = -1
+	attm = 1
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = FS.BiplaneWingTip_4294714318
+	srfN = srfAttach,FS.BiplaneWingMain_4294725886
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleLiftingSurface
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FStextureSwitch
+		isEnabled = True
+		selectedTexture = 0
+		selectedTextureURL = Firespitter/Assets/Biplane_01_WHITE
+		selectedMapURL = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = FS.BiplaneWingRound_4294716152
+	partName = Part
+	pos = -1.98125005,4.59864521,-0.398409277
+	attPos = 0.0250008106,-0.0288116634,-0.0214915127
+	attPos0 = -0.78125,0.00159181491,0.00135468028
+	rot = -0.707107008,-6.28038508E-16,6.28038508E-16,-0.70710665
+	attRot = 0,0,0,1
+	attRot0 = 2.98023188E-08,2.98023171E-08,2.98023188E-08,1
+	mir = 1,1,1
+	symMethod = Mirror
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 0
+	sidx = -1
+	sqor = -1
+	sepI = -1
+	attm = 1
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = FS.BiplaneWingRound_4294535852
+	srfN = srfAttach,FS.BiplaneWingShort_4294719172
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleLiftingSurface
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleControlSurface
+		isEnabled = True
+		mirrorDeploy = False
+		usesMirrorDeploy = True
+		ignorePitch = True
+		ignoreYaw = True
+		ignoreRoll = False
+		deploy = False
+		deployInvert = False
+		partDeployInvert = False
+		authorityLimiter = 100
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ActionToggle
+			{
+				actionGroup = None
+			}
+			ActionExtend
+			{
+				actionGroup = None
+			}
+			ActionRetract
+			{
+				actionGroup = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FStextureSwitch
+		isEnabled = True
+		selectedTexture = 0
+		selectedTextureURL = Firespitter/Assets/Biplane_01_WHITE
+		selectedMapURL = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = FS.BiplaneWingRound_4294535852
+	partName = Part
+	pos = 1.98125005,4.59864521,-0.398409486
+	attPos = 0.0250008106,-0.0288116634,-0.0214915127
+	attPos0 = -0.781249464,0.00159154611,-0.00135483872
+	rot = -3.09086303E-08,0.70710659,0.707107067,-3.09086161E-08
+	attRot = 0,0,0,1
+	attRot0 = -3.27825518E-07,-2.98023259E-08,2.98022886E-08,1
+	mir = 1,1,1
+	symMethod = Mirror
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 0
+	sidx = -1
+	sqor = -1
+	sepI = -1
+	attm = 1
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = FS.BiplaneWingRound_4294716152
+	srfN = srfAttach,FS.BiplaneWingShort_4294719130
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleLiftingSurface
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleControlSurface
+		isEnabled = True
+		mirrorDeploy = True
+		usesMirrorDeploy = True
+		ignorePitch = True
+		ignoreYaw = True
+		ignoreRoll = False
+		deploy = False
+		deployInvert = False
+		partDeployInvert = False
+		authorityLimiter = 100
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ActionToggle
+			{
+				actionGroup = None
+			}
+			ActionExtend
+			{
+				actionGroup = None
+			}
+			ActionRetract
+			{
+				actionGroup = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FStextureSwitch
+		isEnabled = True
+		selectedTexture = 0
+		selectedTextureURL = Firespitter/Assets/Biplane_01_WHITE
+		selectedMapURL = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
 	}
 }
