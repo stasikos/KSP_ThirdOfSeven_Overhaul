@@ -18,6 +18,13 @@ https://github.com/snjo/Firespitter/releases/tag/v7.5.1
 you can probably use latest version of parts, but I use 7.4.2
 
 --------------
+Utils/EditorExtensionsRedux.txt
+Quite useful mod to make craft design much easier
+
+http://spacedock.info/mod/48/Editor%20Extensions%20Redux
+https://github.com/linuxgurugamer/EditorExtensionsRedux
+http://forum.kerbalspaceprogram.com/index.php?/topic/127378-editor-extensions-redux-301-released-with-selectroot-merge/&do=findComment&comment=2314915
+--------------
 Utils/Firespitter.txt
 You need latest stable firespitter plugin
 I use version 7.4.2

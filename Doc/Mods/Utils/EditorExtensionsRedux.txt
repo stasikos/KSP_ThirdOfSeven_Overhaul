@@ -1,0 +1,5 @@
+Quite useful mod to make craft design much easier
+
+http://spacedock.info/mod/48/Editor%20Extensions%20Redux
+https://github.com/linuxgurugamer/EditorExtensionsRedux
+http://forum.kerbalspaceprogram.com/index.php?/topic/127378-editor-extensions-redux-301-released-with-selectroot-merge/&do=findComment&comment=2314915
