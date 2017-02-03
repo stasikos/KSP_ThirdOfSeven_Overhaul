@@ -6,6 +6,24 @@ Download and docs here:
 http://forum.kerbalspaceprogram.com/index.php?/topic/50533-121-module-manager-275-november-29th-2016-better-late-than-never/
 
 --------------
+Parts/Firespitter.txt
+Not a plugin only, but also parts from Firespitter needed
+most are pruned using Firespitter.prnl I need biplane and small set of tools
+from it. Rest is broken and useless anyway
+
+http://forum.kerbalspaceprogram.com/index.php?/topic/22583-firespitter-propeller-plane-and-helicopter-parts-v71-may-5th-for-ksp-10/&page=1
+http://snjo.github.io/
+https://github.com/snjo/Firespitter/releases/tag/v7.5.1
+
+you can probably use latest version of parts, but I use 7.4.2
+
+--------------
+Utils/Firespitter.txt
+You need latest stable firespitter plugin
+I use version 7.4.2
+
+https://github.com/snjo/Firespitter/releases
+--------------
 Utils/JanitorCloset.txt
 Tool to remove parts you don't need from Gamedata. Or just hide them in VAB/SPH
 lists.
@@ -15,6 +33,13 @@ https://github.com/linuxgurugamer/JanitorsCloset
 http://spacedock.info/mod/944/The_Janitors_Closet
 --------------
 Utils/KSP-AVC.txt
+Addon version checker 
+Optional mod to stay up-to-date with mods
+
+http://forum.kerbalspaceprogram.com/index.php?/topic/72169-12-ksp-avc-add-on-version-checker-plugin-1162-miniavc-ksp-avc-online-2016-10-13/
+https://kerbal.curseforge.com/projects/ksp-avc-add-on-version-checker
+https://github.com/CYBUTEK/KSPAddonVersionChecker
+
 --------------
 Utils/SpeedUnitDisplay.txt
 Small mod to show surfrace speed in more convenient way

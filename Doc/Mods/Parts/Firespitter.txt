@@ -1,0 +1,10 @@
+Not a plugin only, but also parts from Firespitter needed
+most are pruned using Firespitter.prnl I need biplane and small set of tools
+from it. Rest is broken and useless anyway
+
+http://forum.kerbalspaceprogram.com/index.php?/topic/22583-firespitter-propeller-plane-and-helicopter-parts-v71-may-5th-for-ksp-10/&page=1
+http://snjo.github.io/
+https://github.com/snjo/Firespitter/releases/tag/v7.5.1
+
+you can probably use latest version of parts, but I use 7.4.2
+

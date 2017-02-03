@@ -1,0 +1,4 @@
+You need latest stable firespitter plugin
+I use version 7.4.2
+
+https://github.com/snjo/Firespitter/releases
