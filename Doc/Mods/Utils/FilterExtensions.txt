@@ -1,0 +1,4 @@
+Used v 2.8.1.2. Adds better categories filter in VAB/SPH for parts
+
+https://github.com/Crzyrndm/FilterExtension/releases
+http://forum.kerbalspaceprogram.com/index.php?/topic/93955-122-filter-extensions-28-dec-18/
