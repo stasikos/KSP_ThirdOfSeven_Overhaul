@@ -1,0 +1,9 @@
+blizzy78's toolbar
+Musthave. Adds little configurable toolbar for mod buttons
+
+https://github.com/blizzy78/ksp_toolbar
+https://github.com/blizzy78/ksp_toolbar/releases
+http://forum.kerbalspaceprogram.com/index.php?/topic/55420-120-toolbar-1713-common-api-for-draggableresizable-buttons-toolbar/
+
+It is updated quite rarely, so you need to change version file to avoid annoying
+notifications about "built for 1.2.0"
