@@ -1,0 +1,25 @@
+Core/ModuleManager.txt
+ModuleManager - universal patcher for part config files (and not only part)
+
+
+Download and docs here:
+http://forum.kerbalspaceprogram.com/index.php?/topic/50533-121-module-manager-275-november-29th-2016-better-late-than-never/
+
+--------------
+Utils/JanitorCloset.txt
+Tool to remove parts you don't need from Gamedata. Or just hide them in VAB/SPH
+lists.
+
+http://forum.kerbalspaceprogram.com/index.php?/topic/147463-end-your-parts-list-nightmare-introducing-the-janitors-closet/
+https://github.com/linuxgurugamer/JanitorsCloset
+http://spacedock.info/mod/944/The_Janitors_Closet
+--------------
+Utils/KSP-AVC.txt
+--------------
+Utils/SpeedUnitDisplay.txt
+Small mod to show surfrace speed in more convenient way
+http://forum.kerbalspaceprogram.com/index.php?/topic/155348-wip-12x-speedunitdisplay-01/
+Download here:
+https://github.com/stasikos/SpeedUnitDisplay/releases
+Feel free to use latest version always
+--------------

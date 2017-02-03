@@ -1,0 +1,6 @@
+ModuleManager - universal patcher for part config files (and not only part)
+
+
+Download and docs here:
+http://forum.kerbalspaceprogram.com/index.php?/topic/50533-121-module-manager-275-november-29th-2016-better-late-than-never/
+

@@ -1,0 +1,9 @@
+01 - Activate atmospheric // Not auto bound
+02 - Toggle engine mode
+03 - Flaps if any
+04 - Anthennas
+05 - Solar panels
+06 - Radiators
+07 - Landed (Ladders, so on)
+08 - Lock gimbals? Countermeasures? What else?
+09 - Cargo bays
