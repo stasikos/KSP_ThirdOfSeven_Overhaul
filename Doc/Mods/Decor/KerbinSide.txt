@@ -1,0 +1,4 @@
+GroundControls, CoreAssets, MainBases only
+
+http://forum.kerbalspaceprogram.com/index.php?/topic/74776-112-kerbin-side-v110-supplements/
+https://spacedock.info/mod/150/Kerbin-Side%20Complete
