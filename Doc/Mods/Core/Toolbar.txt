@@ -1,3 +1,7 @@
+Toolbar Continued:
+https://forum.kerbalspaceprogram.com/index.php?/topic/161857-13-toolbar-continued-common-api-for-draggableresizable-buttons-toolbar/
+https://github.com/linuxgurugamer/ksp_toolbar/releases
+
 blizzy78's toolbar
 Musthave. Adds little configurable toolbar for mod buttons
 
