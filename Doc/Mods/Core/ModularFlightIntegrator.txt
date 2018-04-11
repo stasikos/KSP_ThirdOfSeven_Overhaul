@@ -1,4 +1,2 @@
-It is API used by FAR and Kopernicus (and maybe something else). Required
-
+ModularFlightIntegrator 1.2.4.0 by sarbian
 http://forum.kerbalspaceprogram.com/index.php?/topic/106369-12-modularflightintegrator-123-december-11th/&page=1
-https://github.com/sarbian/ModularFlightIntegrator

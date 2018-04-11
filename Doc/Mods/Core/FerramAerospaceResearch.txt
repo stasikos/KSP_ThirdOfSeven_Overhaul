@@ -1,4 +1,2 @@
-Currently I use build from KSP_update branch built from source. 
-It is very important mod, but it is not released yet for 1.2.2
-
-http://forum.kerbalspaceprogram.com/index.php?/topic/19321-113-ferram-aerospace-research-v01572-lanchester-7116
+Ferram Aerospace Research 0.15.9 by ferram4
+https://forum.kerbalspaceprogram.com/index.php?/topic/19321-130-ferram-aerospace-research-v0159-liebe-82117/
