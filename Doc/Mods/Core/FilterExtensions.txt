@@ -1,0 +1,3 @@
+FilterExtensions 3.2.0 by Ialdabaoth and maintained by sarbian
+https://github.com/UmbraSpaceIndustries/UmbraSpaceIndustries/releases
+
