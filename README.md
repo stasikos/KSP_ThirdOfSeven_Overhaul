@@ -33,7 +33,7 @@ Current Requirements (See Docs/Mods for more details):
 
 KSP 1.3.2 (until some mods get updates (* - has update))
 [*] ModuleManager
-Firespitter
+Firespitter (+Parts)
 B9 Procedural Wings
 Procedural Parts
 TakeCommand
@@ -49,6 +49,9 @@ Ferram Aerospace Research
 Sounding Rockets
 Kerbal Reusability Expansion (used to fix grid find (and get grid fins) for SoundingRockets).
 FMRS (Flight Manager for reusable stages).
+UbioWelding Continued
+KAS
+KIS
 
 Suggested:
 [x] Science
