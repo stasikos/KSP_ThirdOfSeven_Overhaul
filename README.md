@@ -52,8 +52,13 @@ FMRS (Flight Manager for reusable stages).
 UbioWelding Continued
 KAS
 KIS
+ThunderAerospace Life Support
+Kerbal Health (Testing)
+ConstractConfigurator + FieldResearch, KerbinSpaceStation, 
 
 Suggested:
+kOS
+SmartParts
 [x] Science
 HullCam VDS
 KerbalEngineer
