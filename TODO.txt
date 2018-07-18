@@ -1,0 +1,14 @@
+Fix FS_Biplane engine crash tolerance (also check rest of the parts)
+[DONE] Create something like APU working on LF/IntakeAir (Piston engine electric generator)
+[DONE] Create something like APU working on IntakeAir only (early APUs)
+Adopt kerbalFoundry Jet APU (or make own version of it)
+0.625m payload fairing
+0.375m payload fairing? :)
+Sort 1.25m LFO engines. Really need them for test career mode
+Find That mod to help with shrouds on smaller engines when bottom part is much
+larger
+Add Bon Voyage
+Write and test patch for Bon Voyage to allow water trips
+Allow to use FS droptanks much sooner than almost never :)
+[DONE] Fix or remove FS biplane gear
+S2 Commercial Cockpit should make craft "Airplane", not "Ship"
