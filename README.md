@@ -31,47 +31,7 @@ Maybe I'll do some scripts to do it, but I can't test them on Windows.
 
 Current Requirements (See Docs/Mods for more details):
 
-KSP 1.3.2 (until some mods get updates (* - has update))
-- [*] ModuleManager
-- Firespitter (+Parts)
-- B9 Procedural Wings
-- Procedural Parts
-- TakeCommand
-- Sounding Rockets
-- Tweakscale
-- JanitorsCloset
-- Editr Extensions Redux
-- CommunityResourcePack
-- CommunityCategoryKit
-- Toolbar
-- FilterExtensions
-- Ferram Aerospace Research
-- Sounding Rockets
-- Kerbal Reusability Expansion (used to fix grid find (and get grid fins) for SoundingRockets).
-- FMRS (Flight Manager for reusable stages).
-- UbioWelding Continued
-- KAS
-- KIS
-- ThunderAerospace Life Support
-- Kerbal Health (Testing)
-- ConstractConfigurator + FieldResearch, KerbinSpaceStation, 
+KSP 1.4.5 (until some mods get updates (* - has update))
 
-Suggested:
-kOS
-SmartParts
-[x] Science
-HullCam VDS
-KerbalEngineer
-EVA Parachutes and ejection seats
-Scatterer
-StageRecovery
-TacSelfDestruct
-Trajectories
-Kerbal Alaram Clock
-TransferWindow Planner
-RealPlume
-RCSBuildAid
-Mansailor's Textures
-Docking Port Alignment Indicator
-Precise Node
-MechJeb
+
+Mod List will appear later in form of link to google spreadsheet.
