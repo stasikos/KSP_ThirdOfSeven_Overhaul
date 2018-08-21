@@ -3,11 +3,6 @@ Spreadsheet with all available experiments, situations and science you can get
   hardcore ones and 50% is for ones who "normal". And it is a lot of science.
 then just check how much we need in our techtree with 
 
-grep "cost = " ../ModuleManager.TechTree | awk '{sum += $3} END {print sum}'
-
-btw we have 27740 ATM, and it is not much... :)
-
-
 Fix FS_Biplane engine crash tolerance (also check rest of the parts)
 Adopt kerbalFoundry Jet APU (or make own version of it)
 0.625m payload fairing
