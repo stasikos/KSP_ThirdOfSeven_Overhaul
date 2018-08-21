@@ -1,14 +1,23 @@
+Spreadsheet with all available experiments, situations and science you can get
+- science balance should be done in sane way. I think 90% of coverage is for
+  hardcore ones and 50% is for ones who "normal". And it is a lot of science.
+then just check how much we need in our techtree with 
+
+grep "cost = " ../ModuleManager.TechTree | awk '{sum += $3} END {print sum}'
+
+btw we have 27740 ATM, and it is not much... :)
+
+
 Fix FS_Biplane engine crash tolerance (also check rest of the parts)
-[DONE] Create something like APU working on LF/IntakeAir (Piston engine electric generator)
-[DONE] Create something like APU working on IntakeAir only (early APUs)
 Adopt kerbalFoundry Jet APU (or make own version of it)
 0.625m payload fairing
 0.375m payload fairing? :)
 Sort 1.25m LFO engines. Really need them for test career mode
 Find That mod to help with shrouds on smaller engines when bottom part is much
 larger
-Add Bon Voyage
 Write and test patch for Bon Voyage to allow water trips
 Allow to use FS droptanks much sooner than almost never :)
-[DONE] Fix or remove FS biplane gear
 S2 Commercial Cockpit should make craft "Airplane", not "Ship"
+Still need to sort over9000 parts
+egrep -c '^\s+PART$' ../ModuleManager.ConfigCache gives 723 and it looks like
+much even without all mods we need
