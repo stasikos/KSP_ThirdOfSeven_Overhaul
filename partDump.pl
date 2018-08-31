@@ -43,6 +43,19 @@ while (my $line = <$FILE>) {
 
 foreach $k (keys %parts) {
 	$p = $parts{$k};
+	$p->{'entryCost'} = 0 if not defined $p->{'entryCost'};
+	$p->{'maxPressure'} = 0 if not defined $p->{'maxPressure'};
+	$p->{'maxTemp'} = 0 if not defined $p->{'maxTemp'};
+	$p->{'skinMaxTemp'} = 0 if not defined $p->{'skinMaxTemp'};
+	$p->{'crashTolerance'} = 0 if not defined $p->{'crashTolerance'};
+	$p->{'mass'} = 0 if not defined $p->{'mass'};
+	$p->{'cost'} = 0 if not defined $p->{'cost'};
+	$p->{'TechRequired'} = 'UnDeFiNed' if not defined $p->{'TechRequired'};
+	$p->{'title'} = 'UnDeFiNed' if not defined $p->{'title'};
+	$p->{'meta_level'} = 'UnDeFiNed' if not defined $p->{'meta_level'};
+	$p->{'tier'} = 'UnDeFiNed' if not defined $p->{'tier'};
+	$p->{'tech'} = 'UnDeFiNed' if not defined $p->{'tech'};
+	$p->{'size'} = 'UnDeFiNed' if not defined $p->{'size'};
 #	print Dumper $p;
-	printf "%s, \"%s\", %s, %d, %d\n", $k, $p->{'title'}, $p->{'TechRequired'}, $p->{'cost'}, $p->{'entryCost'};
+	printf "%s, \"%s\", %s, %d, %d, %f, %f, %d, %d, %d, %s, %s, %s, %s\n", $k, $p->{'title'}, $p->{'TechRequired'}, $p->{'cost'}, $p->{'entryCost'}, $p->{'mass'}, $p->{'crashTolerance'}, $p->{'maxTemp'}, $p->{'skinMaxTemp'}, $p->{'maxPressure'}, $p->{'size'}, $p->{'tier'}, $p->{'meta_level'}, $p->{'tech'};
 }

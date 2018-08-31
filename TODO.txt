@@ -3,7 +3,6 @@ Spreadsheet with all available experiments, situations and science you can get
   hardcore ones and 50% is for ones who "normal". And it is a lot of science.
 then just check how much we need in our techtree with 
 
-Fix FS_Biplane engine crash tolerance (also check rest of the parts)
 Adopt kerbalFoundry Jet APU (or make own version of it)
 0.625m payload fairing
 0.375m payload fairing? :)
@@ -14,5 +13,3 @@ Write and test patch for Bon Voyage to allow water trips
 Allow to use FS droptanks much sooner than almost never :)
 S2 Commercial Cockpit should make craft "Airplane", not "Ship"
 Still need to sort over9000 parts
-egrep -c '^\s+PART$' ../ModuleManager.ConfigCache gives 723 and it looks like
-much even without all mods we need
