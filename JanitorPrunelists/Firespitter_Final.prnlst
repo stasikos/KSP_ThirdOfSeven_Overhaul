@@ -69,3 +69,5 @@ FSbiPlaneWingTip,ALL
 FSbiPlaneSkid,ALL
 FSbiPlaneWheelPair,ALL
 FSfloatGearbay,ALL
+FSstrutConnectorWire,ALL
+FSstrutConnectorWood,ALL
