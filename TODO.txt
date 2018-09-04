@@ -1,3 +1,5 @@
+Real TODO is not here anymore
+
 Spreadsheet with all available experiments, situations and science you can get
 - science balance should be done in sane way. I think 90% of coverage is for
   hardcore ones and 50% is for ones who "normal". And it is a lot of science.

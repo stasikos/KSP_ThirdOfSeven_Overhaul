@@ -12,9 +12,14 @@ my $continue = 0;
 my $pName = "";
 my %phash = ();
 
+$lastUrl = "UnDeFiNeD";
+
 while (my $line = <$FILE>) {
 	chomp $line;
 	$line =~ s/^\s+|\s+$//g;
+	if ($line =~ /.*parentUrl = (.*)/) {
+		$lastUrl = $1;
+	}
 	if ($line =~ /.*{.*/) {
 		if ($pLine =~ /^PART$/) {
 			$continue = 1;
@@ -22,17 +27,19 @@ while (my $line = <$FILE>) {
 			$continue = 0;
 		}
 	} elsif ($line =~ /(.*) = (.*)/) {
+		my $att = $1;
+		my $value = $2;
 		if ($continue eq 1) {
-			my $att = $1;
-			my $value = $2;
 			if ($att eq "name") {
 				$pName = $value;
 				$phash = {};
+				$phash->{'parentUrl'} = $lastUrl;
 				$parts{$pName} = $phash;
+				#print "last = $lastUrl\n";
 			} else {
 				$phash->{$att} = $value;
 			}
-		}
+		} 
 	}
 	$pLine = $line;
 }
@@ -41,8 +48,11 @@ while (my $line = <$FILE>) {
 
 #exit 0;
 
+printf "%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s\n", "url", "name", "title", "techrequired", "cost", "entryCost", "mass", "crashTolerance", "maxTemp", "skinMaxTemp", "maxPressure", "size", "tier", "meta", "tech";
 foreach $k (keys %parts) {
 	$p = $parts{$k};
+	$parentUrl = $p->{'parentUrl'};
+	$parentUrl =~ s/([a-zA-Z0-9]*)\/.*/$1/;
 	$p->{'entryCost'} = 0 if not defined $p->{'entryCost'};
 	$p->{'maxPressure'} = 0 if not defined $p->{'maxPressure'};
 	$p->{'maxTemp'} = 0 if not defined $p->{'maxTemp'};
@@ -57,5 +67,5 @@ foreach $k (keys %parts) {
 	$p->{'tech'} = 'UnDeFiNed' if not defined $p->{'tech'};
 	$p->{'size'} = 'UnDeFiNed' if not defined $p->{'size'};
 #	print Dumper $p;
-	printf "%s, \"%s\", %s, %d, %d, %f, %f, %d, %d, %d, %s, %s, %s, %s\n", $k, $p->{'title'}, $p->{'TechRequired'}, $p->{'cost'}, $p->{'entryCost'}, $p->{'mass'}, $p->{'crashTolerance'}, $p->{'maxTemp'}, $p->{'skinMaxTemp'}, $p->{'maxPressure'}, $p->{'size'}, $p->{'tier'}, $p->{'meta_level'}, $p->{'tech'};
+	printf "%s, %s, \"%s\", %s, %d, %d, %f, %f, %d, %d, %d, %s, %s, %s, %s\n", $parentUrl, $k, $p->{'title'}, $p->{'TechRequired'}, $p->{'cost'}, $p->{'entryCost'}, $p->{'mass'}, $p->{'crashTolerance'}, $p->{'maxTemp'}, $p->{'skinMaxTemp'}, $p->{'maxPressure'}, $p->{'size'}, $p->{'tier'}, $p->{'meta_level'}, $p->{'tech'};
 }

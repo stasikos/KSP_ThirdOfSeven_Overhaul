@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./partDump.pl | head -1 
+./partDump.pl | grep -v hidden | sort | grep UnDeFiN | head -n 10
+echo "Left $(./partDump.pl | grep -c UnDeFiN) more"
