@@ -1,0 +1,4 @@
+@PART[probeStackSmall]:FOR[Squad]
+{
+        -MODULE[TweakScale] {}
+}
