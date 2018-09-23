@@ -1,8 +1,0 @@
-@PART[biplanegear]:FOR[AirplanePlus]
-{
-	@MODULE[ModuleWheelSuspension] {
-		@springRatio = 15
-		@damperRatio = 3.0
-		@suppressModuleInfo = False
-	}
-}

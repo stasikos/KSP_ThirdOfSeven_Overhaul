@@ -1,5 +1,10 @@
 #!/bin/bash
 
-./partDump.pl | head -1 
-./partDump.pl | grep -v hidden | grep -v kerbalEVA | sort | grep UnDeFiN | head -n 25
-echo "Left $(./partDump.pl | grep -c UnDeFiN) more"
+FILE='/tmp/ksp-part-list.txt'
+MOD=${1:-.*}
+
+./partDump.pl | head -1 > $FILE
+./partDump.pl | grep -v hidden | grep -v kerbalEVA | sort | grep UnDeFiN | grep "$MOD" | head -n 50 >> $FILE
+echo "Left $(./partDump.pl | grep -c UnDeFiN) more" >> $FILE
+
+vim $FILE
