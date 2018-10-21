@@ -23,3 +23,16 @@ ELTankLargeRP,ALL
 ELTankSmlMTL,ALL
 ELTankSmlORE,ALL
 ELTankSmlRP,ALL
+Magnetometer,ALL
+OMD,ALL
+TinyAuger,ALL
+SmallAuger,ALL
+Auger,ALL
+Smelter,ALL
+ELWorkshop,ALL
+SmallSmelter,ALL
+RocketBuilder,ALL
+TinySmelter,ALL
+ELLaunchpad,ALL
+ELLaunchpad2,ALL
+ELRunway,ALL
