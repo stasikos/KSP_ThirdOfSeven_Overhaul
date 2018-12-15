@@ -6,7 +6,7 @@ TECH=${3:-.*}
 COUNT=${1:-50}
 
 ./partDump.pl | head -1 > $FILE
-./partDump.pl | grep -v hidden | grep -v kerbalEVA | sort | grep UnDeFiN | grep "$MOD"| grep "$TECH" | head -n "$COUNT" >> $FILE
+./partDump.pl | grep -v hidden | grep -v kerbalEVA | sort | grep UnDeFiN | grep "$MOD"| grep "$TECH" | grep -Ev '(none|Unresearchable)' | head -n "$COUNT" >> $FILE
 echo "Left $(./partDump.pl | grep -c UnDeFiN) more" >> $FILE
 
 vim $FILE
