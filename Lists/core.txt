@@ -1,0 +1,14 @@
+FerramAerospaceResearch
+ModularFlightIntegrator
+ThunderAerospace
+ThunderAerospace/TacLifeSupport
+REPOSoftTech
+REPOSoftTech/BackgroundResources
+KerbalConstructionTime
+MagiCore
+ContractConfigurator
+KerbalJointReinforcement
+000_KSPAPIExtensions
+000_KSPe.dll
+ContractConfigurator
+ContractPacks
