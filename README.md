@@ -1,4 +1,5 @@
 Hello, this is me (aka ThirdOfSeven on KSP Forums) and it is my attempt to make another overhaul to career mode KSP.
+This is branch for KSP 1.6.1/Making History 1.6
 
 Currently idea is to make new TechTree like I like to try and to change all parts using ModuleManager patches to fit one game I like.
 
@@ -28,10 +29,5 @@ Building things in space and other places.
 This package is planned to have some "required" and "optional" mods you need to download and install manually from the respective sources.
 Also if you want to really follow my way, you will need to remove tons of parts I can't fit into gameplay using Janitor Closet prunelists. 
 Maybe I'll do some scripts to do it, but I can't test them on Windows.
-
-Current Requirements (See Docs/Mods for more details):
-
-KSP 1.4.5 (until some mods get updates (* - has update))
-
 
 Mod List will appear later in form of link to google spreadsheet.
