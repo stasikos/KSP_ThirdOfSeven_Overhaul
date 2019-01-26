@@ -12,3 +12,6 @@ KerbalJointReinforcement
 000_KSPe.dll
 ContractConfigurator
 ContractPacks
+000_USITools
+UmbraSpaceIndustries
+UmbraSpaceIndustries/SoundingRockets

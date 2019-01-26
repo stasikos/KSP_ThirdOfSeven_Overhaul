@@ -33,6 +33,12 @@ for I in $OPTIONAL ; do
        fi
 done
 
+for I in $VISUAL ; do
+       if [ ! -e "$I" ] ; then
+	       echo "Visual $I is missing"
+       fi
+done
+
 for I in $(ls -1) ; do
         FOUND=0
 	for J in $REQUIRED $REQ_OPTIONAL $OPTIONAL $CORE $VISUAL; do
