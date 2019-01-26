@@ -1,5 +1,0 @@
-Small mod to show surfrace speed in more convenient way
-http://forum.kerbalspaceprogram.com/index.php?/topic/155348-wip-12x-speedunitdisplay-01/
-Download here:
-https://github.com/stasikos/SpeedUnitDisplay/releases
-Feel free to use latest version always

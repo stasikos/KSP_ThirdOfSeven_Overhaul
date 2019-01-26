@@ -1,7 +1,0 @@
-Addon version checker 
-Optional mod to stay up-to-date with mods
-
-http://forum.kerbalspaceprogram.com/index.php?/topic/72169-12-ksp-avc-add-on-version-checker-plugin-1162-miniavc-ksp-avc-online-2016-10-13/
-https://kerbal.curseforge.com/projects/ksp-avc-add-on-version-checker
-https://github.com/CYBUTEK/KSPAddonVersionChecker
-

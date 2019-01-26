@@ -1,6 +1,0 @@
-Tool to remove parts you don't need from Gamedata. Or just hide them in VAB/SPH
-lists.
-
-http://forum.kerbalspaceprogram.com/index.php?/topic/147463-end-your-parts-list-nightmare-introducing-the-janitors-closet/
-https://github.com/linuxgurugamer/JanitorsCloset
-http://spacedock.info/mod/944/The_Janitors_Closet
