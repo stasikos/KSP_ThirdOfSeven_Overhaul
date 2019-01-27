@@ -1,2 +1,6 @@
 scatterer
 EnvironmentalVisualEnhancements
+DistantObject
+RealPlume
+RealPlume-Stock
+SmokeScreen

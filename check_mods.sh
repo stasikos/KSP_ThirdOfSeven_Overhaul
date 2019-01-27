@@ -6,6 +6,7 @@ OPTIONAL=$(cat Lists/optional.txt)
 CORE=$(cat Lists/core.txt)
 PART=$(cat Lists/part.txt)
 VISUAL=$(cat Lists/visual.txt)
+IFS=$'\n'
 
 
 cd ..
@@ -46,7 +47,9 @@ for I in $VISUAL ; do
        fi
 done
 
-for I in $(ls -1) ; do
+DIRS="$(ls -1)"
+
+for I in $DIRS ; do
         FOUND=0
 	for J in $REQUIRED $REQ_OPTIONAL $OPTIONAL $CORE $PART $VISUAL; do
 		if [ "$I" = "$J" ] ; then 

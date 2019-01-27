@@ -1,1 +1,8 @@
 KSP-AVC
+KerbalEngineer
+PreciseNode
+EditorExtensionsRedux
+KerbalKonstructs
+EasyVesselSwitch
+[x] Science!
+000_Toolbar
