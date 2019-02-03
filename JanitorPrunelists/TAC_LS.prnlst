@@ -2,7 +2,6 @@ TacFoodContainerSmall,ALL
 TacFoodContainer,ALL
 TacFoodContainerLarge,ALL
 TacFoodContainerLarge375,ALL
-HexCanFood,ALL
 HexCanFoodLarge,ALL
 TacOxygenContainerSmall,ALL
 TacOxygenContainer,ALL
@@ -26,5 +25,4 @@ TacWaterContainerSmall,ALL
 TacWaterContainer,ALL
 TacWaterContainerLarge,ALL
 TacWaterContainerLarge375,ALL
-HexCanDrinkingWater,ALL
 HexCanDrinkingWaterLarge,ALL
