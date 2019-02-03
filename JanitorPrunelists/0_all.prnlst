@@ -1,3 +1,6 @@
+KF.Repulsor,ALL
+KF.RepulsorSurface,ALL
+KF.RepulsorGimbal,ALL
 HGR.1875.125.Tank,ALL
 HGR.1875.250.Tank,ALL
 HGR.Large.Tank,ALL
@@ -297,11 +300,19 @@ dmUSSoilMoisture,ALL
 dmUSAccGrav,ALL
 dmUSAsert,ALL
 dmUSSolarParticles,ALL
+argon-25-2,ALL
+argon-25-1,ALL
+argon-25-3,ALL
+argon-125-3,ALL
+argon-125-2,ALL
+argon-125-1,ALL
+argon-0625-2,ALL
+argon-0625-1,ALL
+argon-0625-3,ALL
 TacFoodContainerSmall,ALL
 TacFoodContainer,ALL
 TacFoodContainerLarge,ALL
 TacFoodContainerLarge375,ALL
-HexCanFood,ALL
 HexCanFoodLarge,ALL
 TacOxygenContainerSmall,ALL
 TacOxygenContainer,ALL
@@ -325,5 +336,4 @@ TacWaterContainerSmall,ALL
 TacWaterContainer,ALL
 TacWaterContainerLarge,ALL
 TacWaterContainerLarge375,ALL
-HexCanDrinkingWater,ALL
 HexCanDrinkingWaterLarge,ALL
