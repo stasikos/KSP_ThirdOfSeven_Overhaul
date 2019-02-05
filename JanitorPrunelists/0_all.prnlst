@@ -10,6 +10,8 @@ HGR.Normal.Tank,ALL
 HGR.RCS.Tank,ALL
 HGR.1875.125.Adapter,ALL
 HGR.1875.250.Adapter,ALL
+OSE.WorkshopChemical,ALL
+OSE.WorkshopAiCore,ALL
 monoprop-tank-125-3,ALL
 monoprop-tank-125-2,ALL
 monoprop-tank-125-1,ALL
@@ -142,6 +144,8 @@ FSfloatGearbay,ALL
 FSstrutConnectorWire,ALL
 FSstrutConnectorWood,ALL
 FS.BiplaneSkid,ALL
+fuelTank4-0,ALL
+fuelTank.extralong,ALL
 cycloneProp,ALL
 WBI.BuffaloWingType4,ALL
 WBI.BuffaloWingType1,ALL
