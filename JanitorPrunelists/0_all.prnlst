@@ -21,6 +21,13 @@ monoprop-tank-25-1,ALL
 monoprop-tank-375-3,ALL
 monoprop-tank-375-2,ALL
 monoprop-tank-375-1,ALL
+ELTankMedSCRAP,ALL
+ELTankLargeSCRAP,ALL
+ELTankXLargeMTL,ALL
+ELTankXLargeORE,ALL
+ELTankXLargeRP,ALL
+ELTankXLargeSCRAP,ALL
+ELTankSmlSCRAP,ALL
 SXTsize2LFtank,ALL
 SXTsize2LFtankShort,ALL
 SXT25to375mKossak,ALL
