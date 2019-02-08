@@ -1,4 +1,0 @@
-@PART[proceduralTankXenon]:AFTER[InterstellarFuelSwitch] {
-	// Breaks amount switch
-	-MODULE[InterstellarFuelSwitch] {}
-}

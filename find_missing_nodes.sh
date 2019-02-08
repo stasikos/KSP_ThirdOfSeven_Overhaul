@@ -7,7 +7,7 @@ SRC="../ModuleManager.ConfigCache"
 #TECH_TREE="../ModuleManager.TechTree"
 TECH_TREE="000_TechTree/TechTree.cfg"
 
-TECH_LIST=$(grep TechRequired "$SRC" | sort -u | awk '{print $3}')
+TECH_LIST=$(grep -i TechRequired "$SRC" | sort -u | awk '{print $3}')
 
 #echo $TECH_LIST
 for I in $TECH_LIST; do 
