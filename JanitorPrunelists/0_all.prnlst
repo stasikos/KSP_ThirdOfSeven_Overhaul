@@ -68,6 +68,9 @@ SXTMTVGirder,ALL
 SXTnuclearramjet,ALL
 SXTWingSmallHalf,ALL
 SXTWingSmall,ALL
+SXTradialWindow,ALL
+SXTtruckbox,ALL
+
 FSbomberCockpit,ALL
 FSfighterCockpit,ALL
 FScopterCockpit,ALL
@@ -287,6 +290,10 @@ spadprop,ALL
 merlin,ALL
 spitfiremerlin,ALL
 miggear,ALL
+hanglel,ALL
+hangles,ALL
+vanglel,ALL
+vangles,ALL
 SR.Tank.625.01,ALL
 SR.Tank.35.01,ALL
 dmUSGoo,ALL
