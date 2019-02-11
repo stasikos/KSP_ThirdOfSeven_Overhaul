@@ -296,6 +296,17 @@ vanglel,ALL
 vangles,ALL
 SR.Tank.625.01,ALL
 SR.Tank.35.01,ALL
+KSCTruckAxleWideComplex,ALL
+KSCTruckAxleNarrowComplex,ALL
+SXTtruckcabinsmall,ALL
+SXTtruckmiddleSmall,ALL
+SXTtruckrearSmall,ALL
+SXTtruckcabin,ALL
+SXTtruckmiddle,ALL
+SXTtruckrear,ALL
+TGWheel,ALL
+SXTtruckbox,ALL
+SXTtruckfueltank,ALL
 dmUSGoo,ALL
 dmUSMagBoom,ALL
 dmUSPresTemp,ALL
