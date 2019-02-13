@@ -166,6 +166,16 @@ radiatorRadialMedium,ALL
 radiatorRadialLarge,ALL
 fuelTank4-0,ALL
 fuelTank.extralong,ALL
+M3X.ElevonA,ALL
+M3X.ElevonB,ALL
+M3X.ElevonC,ALL
+M3X.WingSegmentA,ALL
+M3X.WingSegmentB,ALL
+M3X.WingSegmentC,ALL
+M3X.WingSegmentD,ALL
+M3X.WingSegmentE,ALL
+M3X.WingSegmentF,ALL
+M3X.WingSegmentG,ALL
 cycloneProp,ALL
 WBI.BuffaloWingType4,ALL
 WBI.BuffaloWingType1,ALL
