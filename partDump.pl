@@ -67,5 +67,8 @@ foreach $k (keys %parts) {
 	$p->{'tech'} = 'UnDeFiNed' if not defined $p->{'tech'};
 	$p->{'size'} = 'UnDeFiNed' if not defined $p->{'size'};
 #	print Dumper $p;
-	printf "%s, %s, \"%s\", %s, %d, %d, %f, %f, %d, %d, %d, %s, %s, %s, %s\n", $parentUrl, $k, $p->{'title'}, $p->{'TechRequired'}, $p->{'cost'}, $p->{'entryCost'}, $p->{'mass'}, $p->{'crashTolerance'}, $p->{'maxTemp'}, $p->{'skinMaxTemp'}, $p->{'maxPressure'}, $p->{'size'}, $p->{'tier'}, $p->{'meta_level'}, $p->{'tech'};
+	$p->{'TechHidden'} = 'False' if not defined $p->{'TechHidden'};
+	if (lc $p->{'TechHidden'} ne "true") {
+		printf "%s, %s, \"%s\", %s, %d, %d, %f, %f, %d, %d, %d, %s, %s, %s, %s\n", $parentUrl, $k, $p->{'title'}, $p->{'TechRequired'}, $p->{'cost'}, $p->{'entryCost'}, $p->{'mass'}, $p->{'crashTolerance'}, $p->{'maxTemp'}, $p->{'skinMaxTemp'}, $p->{'maxPressure'}, $p->{'size'}, $p->{'tier'}, $p->{'meta_level'}, $p->{'tech'};
+	}
 }
