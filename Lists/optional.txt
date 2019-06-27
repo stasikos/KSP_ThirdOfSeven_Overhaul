@@ -6,3 +6,6 @@ KerbalKonstructs
 EasyVesselSwitch
 [x] Science!
 000_Toolbar
+WaypointManager
+VesselMover
+SmartParts

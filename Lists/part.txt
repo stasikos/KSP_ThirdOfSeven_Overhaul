@@ -5,3 +5,7 @@ CactEye
 FengistAnim
 Maritime Pack
 MPUtils
+VanguardTechnologies
+RLA_Reborn
+SXT
+StationScience
