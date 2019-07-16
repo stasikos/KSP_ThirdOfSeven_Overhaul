@@ -5,7 +5,10 @@ REQ_OPTIONAL=$(cat Lists/req_optional.txt)
 OPTIONAL=$(cat Lists/optional.txt)
 CORE=$(cat Lists/core.txt)
 PART=$(cat Lists/part.txt)
+PART_OPTIONAL=$(cat Lists/optional_part.txt)
 VISUAL=$(cat Lists/visual.txt)
+IGNORED=$(cat Lists/ignored.txt)
+
 IFS=$'\n'
 
 
@@ -41,6 +44,12 @@ for I in $OPTIONAL ; do
        fi
 done
 
+for I in $PART_OPTIONAL ; do
+       if [ ! -e "$I" ] ; then
+	       echo "Optional $I is missing"
+       fi
+done
+
 for I in $VISUAL ; do
        if [ ! -e "$I" ] ; then
 	       echo "Visual $I is missing"
@@ -51,7 +60,7 @@ DIRS="$(ls -1)"
 
 for I in $DIRS ; do
         FOUND=0
-	for J in $REQUIRED $REQ_OPTIONAL $OPTIONAL $CORE $PART $VISUAL; do
+	for J in $REQUIRED $REQ_OPTIONAL $OPTIONAL $CORE $PART $PART_OPTIONAL $VISUAL $IGNORED; do
 		if [ "$I" = "$J" ] ; then 
 			FOUND=1
 		fi
