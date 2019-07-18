@@ -2,3 +2,4 @@ ModuleManager.ConfigCache
 ModuleManager.ConfigSHA
 ModuleManager.Physics
 ModuleManager.TechTree
+toolbar-settings.dat

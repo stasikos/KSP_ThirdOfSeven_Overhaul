@@ -1,4 +1,6 @@
 GEP
+KerbinSideRemastered
+BonVoyage
 KSP-AVC
 KerbalEngineer
 PreciseNode
