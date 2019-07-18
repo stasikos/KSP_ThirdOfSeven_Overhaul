@@ -31,14 +31,6 @@ ExtraplanetaryLaunchpads
 CommunityCategoryKit
 KIS
 KAS
-UmbraSpaceIndustries/Kontainers
-UmbraSpaceIndustries/Akita
-UmbraSpaceIndustries/Karibou
-UmbraSpaceIndustries/Konstruction
-UmbraSpaceIndustries/MKS
-UmbraSpaceIndustries/ReactorPack
-000_AT_Utils
-Workshop
 kOS
 RemoteTech
 RealChute

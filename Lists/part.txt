@@ -10,3 +10,10 @@ RLA_Reborn
 SXT
 StationScience
 HGR
+UmbraSpaceIndustries/Kontainers
+UmbraSpaceIndustries/Akita
+UmbraSpaceIndustries/Karibou
+UmbraSpaceIndustries/Konstruction
+UmbraSpaceIndustries/MKS
+UmbraSpaceIndustries/ReactorPack
+

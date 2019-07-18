@@ -28,7 +28,7 @@ done
 
 for I in $CORE ; do
        if [ ! -e "$I" ] ; then
-	       echo "Core $I is missing"
+	       echo "Core gameplay $I is missing"
        fi
 done
 
@@ -46,7 +46,7 @@ done
 
 for I in $PART_OPTIONAL ; do
        if [ ! -e "$I" ] ; then
-	       echo "Optional $I is missing"
+	       echo "Optional parts mod $I is missing"
        fi
 done
 
