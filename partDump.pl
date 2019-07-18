@@ -48,13 +48,15 @@ while (my $line = <$FILE>) {
 
 #exit 0;
 
-printf "%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s\n", "url", "name", "title", "techrequired", "cost", "entryCost", "mass", "crashTolerance", "maxTemp", "skinMaxTemp", "maxPressure", "size", "tier", "meta", "tech";
+printf "%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s\n", "url", "name", "title", "techrequired", "cost", "entryCost", "mass", "crashTolerance", "maxTemp", "skinMaxTemp", "maxPressure", "buoyancy", "explPotential", "size", "tier", "meta", "tech";
 foreach $k (keys %parts) {
 	$p = $parts{$k};
 	$parentUrl = $p->{'parentUrl'};
 	$parentUrl =~ s/([a-zA-Z0-9]*)\/.*/$1/;
 	$p->{'entryCost'} = 0 if not defined $p->{'entryCost'};
 	$p->{'maxPressure'} = 0 if not defined $p->{'maxPressure'};
+	$p->{'buoyancy'} = 0 if not defined $p->{'buoyancy'};
+	$p->{'explosionPotential'} = 0 if not defined $p->{'explosionPotential'};
 	$p->{'maxTemp'} = 0 if not defined $p->{'maxTemp'};
 	$p->{'skinMaxTemp'} = 0 if not defined $p->{'skinMaxTemp'};
 	$p->{'crashTolerance'} = 0 if not defined $p->{'crashTolerance'};
@@ -69,6 +71,6 @@ foreach $k (keys %parts) {
 #	print Dumper $p;
 	$p->{'TechHidden'} = 'False' if not defined $p->{'TechHidden'};
 	if (lc $p->{'TechHidden'} ne "true") {
-		printf "%s, %s, \"%s\", %s, %d, %d, %f, %f, %d, %d, %d, %s, %s, %s, %s\n", $parentUrl, $k, $p->{'title'}, $p->{'TechRequired'}, $p->{'cost'}, $p->{'entryCost'}, $p->{'mass'}, $p->{'crashTolerance'}, $p->{'maxTemp'}, $p->{'skinMaxTemp'}, $p->{'maxPressure'}, $p->{'size'}, $p->{'tier'}, $p->{'meta_level'}, $p->{'tech'};
+		printf "%s, %s, \"%s\", %s, %d, %d, %f, %f, %d, %d, %d, %f, %f, %s, %s, %s, %s\n", $parentUrl, $k, $p->{'title'}, $p->{'TechRequired'}, $p->{'cost'}, $p->{'entryCost'}, $p->{'mass'}, $p->{'crashTolerance'}, $p->{'maxTemp'}, $p->{'skinMaxTemp'}, $p->{'maxPressure'}, $p->{'buoyancy'}, $p->{'explosionPotential'}, $p->{'size'}, $p->{'tier'}, $p->{'meta_level'}, $p->{'tech'};
 	}
 }
