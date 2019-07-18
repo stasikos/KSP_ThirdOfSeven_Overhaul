@@ -8,13 +8,4 @@ EasyVesselSwitch
 000_Toolbar
 WaypointManager
 VesselMover
-SmartParts
-SurfaceLights
-StationPartsExpansionRedux
-UniversalStorage2
-RATPack
-NRAP
-NearFutureAeronautics
-NearFutureConstruction
-Mk2Expansion
-Mk3Expansion
+KronalVesselViewer
