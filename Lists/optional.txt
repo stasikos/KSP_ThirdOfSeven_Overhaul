@@ -1,14 +1,7 @@
 GEP
 KerbinSideRemastered
-BonVoyage
-KSP-AVC
-KerbalEngineer
-PreciseNode
-EditorExtensionsRedux
 KerbalKonstructs
-EasyVesselSwitch
-[x] Science!
-000_Toolbar
-WaypointManager
 VesselMover
 KronalVesselViewer
+TriggerTech
+TriggerTech/KerbalAlarmClock

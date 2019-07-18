@@ -1,0 +1,11 @@
+[x] Science!
+BonVoyage
+WaypointManager
+EditorExtensionsRedux
+PreciseNode
+000_Toolbar
+TriggerTech
+TriggerTech/KerbalAlarmClock
+KerbalEngineer
+KSP-AVC
+EasyVesselSwitch
