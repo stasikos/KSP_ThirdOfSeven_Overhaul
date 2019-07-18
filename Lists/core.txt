@@ -22,7 +22,6 @@ Firespitter
 Firespitter/Parts/FS_BiplaneWingMain.cfg
 AirplanePlus
 000_FilterExtensions
-000_FilterExtensions_Configs
 CommunityResourcePack
 InterstellarFuelSwitch
 TweakScale
@@ -42,10 +41,8 @@ FMRS
 Severedsolo
 Severedsolo/OhScrap
 StageRecovery
-KerbalReusabilityExpansion
 ScrapYard
 Kopernicus
-GEP
 GPP
 SCANsat
 NIMBY

@@ -1,10 +1,11 @@
+DMagicOrbitalScience
+DMagicUtilities
 PhotonSail
 SurfaceExperimentPackage
 WildBlueIndustries
 CactEye
 FengistAnim
 Maritime Pack
-MPUtils
 VanguardTechnologies
 RLA_Reborn
 SXT
@@ -16,4 +17,4 @@ UmbraSpaceIndustries/Karibou
 UmbraSpaceIndustries/Konstruction
 UmbraSpaceIndustries/MKS
 UmbraSpaceIndustries/ReactorPack
-
+KerbalReusabilityExpansion
