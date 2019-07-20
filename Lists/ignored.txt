@@ -3,3 +3,4 @@ ModuleManager.ConfigSHA
 ModuleManager.Physics
 ModuleManager.TechTree
 toolbar-settings.dat
+WBIPlayMode.cfg

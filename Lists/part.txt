@@ -3,6 +3,10 @@ DMagicUtilities
 PhotonSail
 SurfaceExperimentPackage
 WildBlueIndustries
+WildBlueIndustries/Buffalo
+WildBlueIndustries/Heisenberg
+WildBlueIndustries/Pathfinder
+HLAirships
 CactEye
 FengistAnim
 Maritime Pack
