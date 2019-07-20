@@ -9,3 +9,4 @@ TriggerTech/KerbalAlarmClock
 KerbalEngineer
 KSP-AVC
 EasyVesselSwitch
+Trajectories
