@@ -5,3 +5,4 @@ VesselMover
 KronalVesselViewer
 TriggerTech
 TriggerTech/KerbalAlarmClock
+MechJeb2
