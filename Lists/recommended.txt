@@ -10,3 +10,4 @@ KerbalEngineer
 KSP-AVC
 EasyVesselSwitch
 Trajectories
+PhysicsRangeExtender
