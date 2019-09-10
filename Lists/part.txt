@@ -22,3 +22,4 @@ UmbraSpaceIndustries/Konstruction
 UmbraSpaceIndustries/MKS
 UmbraSpaceIndustries/ReactorPack
 KerbalReusabilityExpansion
+DecouplerShroud

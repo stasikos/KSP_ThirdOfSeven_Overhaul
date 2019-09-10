@@ -22,3 +22,4 @@ NearFutureConstruction
 Mk2Expansion
 Mk3Expansion
 ModPods
+TarsierSpaceTech
