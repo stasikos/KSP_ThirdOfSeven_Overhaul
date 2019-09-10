@@ -7,10 +7,8 @@ TacOxygenContainerSmall,ALL
 TacOxygenContainer,ALL
 TacOxygenContainerLarge,ALL
 TacOxygenContainerLarge375,ALL
-HexCanOxygen,ALL
 HexCanOxygenLarge,ALL
 TacLifeSupportContainerSmall,ALL
-TacLifeSupportContainer,ALL
 TacLifeSupportContainerLarge,ALL
 TacLifeSupportContainerLarge375,ALL
 HexCanLifeSupport,ALL
@@ -19,7 +17,6 @@ TacWasteContainerSmall,ALL
 TacWasteContainer,ALL
 TacWasteContainerLarge,ALL
 TacWasteContainerLarge375,ALL
-HexCanLifeSupportWaste,ALL
 HexCanLifeSupportWasteLarge,ALL
 TacWaterContainerSmall,ALL
 TacWaterContainer,ALL
