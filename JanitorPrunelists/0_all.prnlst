@@ -154,7 +154,6 @@ FSstrutConnectorWire,ALL
 FSstrutConnectorWood,ALL
 FS.BiplaneSkid,ALL
 nuclearEngineLightbulb,ALL
-KAL9000,ALL
 AdapterfuelTank,ALL
 LargeFifteenDegreeAdapterfuelTank,ALL
 FifteenDegreeAdapterfuelTank,ALL
@@ -391,19 +390,15 @@ TacOxygenContainerSmall,ALL
 TacOxygenContainer,ALL
 TacOxygenContainerLarge,ALL
 TacOxygenContainerLarge375,ALL
-HexCanOxygen,ALL
 HexCanOxygenLarge,ALL
 TacLifeSupportContainerSmall,ALL
-TacLifeSupportContainer,ALL
 TacLifeSupportContainerLarge,ALL
 TacLifeSupportContainerLarge375,ALL
-HexCanLifeSupport,ALL
 HexCanLifeSupportLarge,ALL
 TacWasteContainerSmall,ALL
 TacWasteContainer,ALL
 TacWasteContainerLarge,ALL
 TacWasteContainerLarge375,ALL
-HexCanLifeSupportWaste,ALL
 HexCanLifeSupportWasteLarge,ALL
 TacWaterContainerSmall,ALL
 TacWaterContainer,ALL
