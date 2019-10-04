@@ -32,6 +32,7 @@ CommunityCategoryKit
 KIS
 KAS
 kOS
+kOS-SCANsat
 RemoteTech
 RealChute
 B9_Aerospace_ProceduralWings

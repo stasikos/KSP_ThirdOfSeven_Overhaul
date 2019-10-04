@@ -6,6 +6,7 @@ WildBlueIndustries
 WildBlueIndustries/Buffalo
 WildBlueIndustries/Heisenberg
 WildBlueIndustries/Pathfinder
+PatchManager
 HLAirships
 CactEye
 FengistAnim
@@ -23,3 +24,7 @@ UmbraSpaceIndustries/MKS
 UmbraSpaceIndustries/ReactorPack
 KerbalReusabilityExpansion
 DecouplerShroud
+KWRocketry
+KerbalFoundries
+KSPWheel
+MagicSmokeIndustries
