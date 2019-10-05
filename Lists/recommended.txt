@@ -11,3 +11,6 @@ KSP-AVC
 EasyVesselSwitch
 Trajectories
 PhysicsRangeExtender
+Strategia
+KerboKatz
+KerboKatz/SmallUtilities/KerbalScienceExchange
