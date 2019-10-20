@@ -78,7 +78,8 @@ SXTWingSmallHalf,ALL
 SXTWingSmall,ALL
 SXTradialWindow,ALL
 SXTtruckbox,ALL
-
+SXTAlouetteI,ALL
+LprobeFoil,ALL
 FSbomberCockpit,ALL
 FSfighterCockpit,ALL
 FScopterCockpit,ALL
@@ -334,6 +335,7 @@ vanglel,ALL
 vangles,ALL
 SR.Tank.625.01,ALL
 SR.Tank.35.01,ALL
+SR.LaunchStick,ALL
 KSCTruckAxleWideComplex,ALL
 KSCTruckAxleNarrowComplex,ALL
 SXTtruckcabinsmall,ALL
