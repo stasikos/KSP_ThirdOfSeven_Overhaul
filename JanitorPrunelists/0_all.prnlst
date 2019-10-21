@@ -10,8 +10,6 @@ LH.IcarusTruss5,ALL
 LH.IcarusTruss8,ALL
 KspieNode,ALL
 KspiEmDrive,ALL
-OSE.WorkshopChemical,ALL
-OSE.WorkshopAiCore,ALL
 monoprop-tank-125-3,ALL
 monoprop-tank-125-2,ALL
 monoprop-tank-125-1,ALL
@@ -154,6 +152,8 @@ FSfloatGearbay,ALL
 FSstrutConnectorWire,ALL
 FSstrutConnectorWood,ALL
 FS.BiplaneSkid,ALL
+OSE.WorkshopChemical,ALL
+OSE.WorkshopAiCore,ALL
 nuclearEngineLightbulb,ALL
 AdapterfuelTank,ALL
 LargeFifteenDegreeAdapterfuelTank,ALL
