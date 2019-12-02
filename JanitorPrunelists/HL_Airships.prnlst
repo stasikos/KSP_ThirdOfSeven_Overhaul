@@ -13,4 +13,8 @@ HL.AirshipEnvelopeHecto,ALL
 HL.AirshipEnvelope.Octo,ALL
 HL.AirshipEnvelope,ALL
 OrbiterBasket,ALL
+Blimp,ALL
+HL.AirshipEnvelope.Cirrus.Real,ALL
 KerblingOrbiter,ALL
+AirshipCap,ALL
+HL.AirshipEnvelope.Cirrus,ALL
