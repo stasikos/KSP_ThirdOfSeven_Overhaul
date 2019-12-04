@@ -205,6 +205,12 @@ PLift,ALL
 HL.AirshipEnvelopeHecto,ALL
 HL.AirshipEnvelope.Octo,ALL
 HL.AirshipEnvelope,ALL
+OrbiterBasket,ALL
+Blimp,ALL
+HL.AirshipEnvelope.Cirrus.Real,ALL
+KerblingOrbiter,ALL
+AirshipCap,ALL
+HL.AirshipEnvelope.Cirrus,ALL
 fueltank-75-3,ALL
 fueltank-75-2,ALL
 fueltank-75-1,ALL
