@@ -392,104 +392,7 @@ d19a722d56b9bdc89441de194bdf65fa  ./RealPlume-Stock/VenStockRevamp/ionEngine.cfg
 b0bbf2dd1556b092d5fe2c86e23b6cb8  ./RealPlume-Stock/VenStockRevamp/solidBooster_sm.cfg
 43caf8b0ca43ced11dfb375be2803370  ./RealPlume-Stock/VenStockRevamp/engineLargeSkipper.cfg
 72098c9b019770730f109368bd346d8f  ./RealPlume-Stock/VenStockRevamp/liquidEngine2-2.cfg
-69c2d721b48550df1856c03debbe7663  ./KerBalloons/Parts/DunaBalloons/standard0625.cfg.prune
-ba62665f92e64316c668ccff9e45adf5  ./KerBalloons/Parts/DunaBalloons/KBTexDuna.mbm
-02ed6e7fdbad165ee3793e7569a62ec1  ./KerBalloons/Parts/DunaBalloons/heavyPayload0625.cfg.prune
-1749e3750cadb3eb86807c09533f93a6  ./KerBalloons/Parts/DunaBalloons/standard125.cfg.prune
-87dec27872bbcef25283868a38acbfd9  ./KerBalloons/Parts/DunaBalloons/balloon25.mu
-95c0fab1056985494de967bcfa99fda9  ./KerBalloons/Parts/DunaBalloons/highAltitude0625.cfg.prune
-6546466de4610cac78db1e9dee1eb639  ./KerBalloons/Parts/DunaBalloons/balloon125.mu
-0033832ee2b1b042e331b49161550df4  ./KerBalloons/Parts/DunaBalloons/standard25.cfg.prune
-ffd0d0df24618557ac48693c02d81549  ./KerBalloons/Parts/DunaBalloons/heavyPayload25.cfg.prune
-06fda59e5bd5f6dd107b85f821869a90  ./KerBalloons/Parts/DunaBalloons/highAltitude125.cfg.prune
-4de9f9df66f2fb8a21f998be256cfa8d  ./KerBalloons/Parts/DunaBalloons/heavyPayload125.cfg.prune
-812cdd771d317d64db3b4e5f2ed365cc  ./KerBalloons/Parts/DunaBalloons/balloon375.mu
-a3f5410ecaa3494e23c89a507aff25ad  ./KerBalloons/Parts/DunaBalloons/balloon0625.mu
-b44eba39ee06dd1c8a3c4e42521f1404  ./KerBalloons/Parts/DunaBalloons/highAltitude375.cfg.prune
-dce32317f5989784c06bf5b8ca9a11ca  ./KerBalloons/Parts/DunaBalloons/standard375.cfg.prune
-2aaed41851b87700fc470966923da148  ./KerBalloons/Parts/DunaBalloons/highAltitude25.cfg.prune
-5c2a6c0c37232f38fd63225374d50048  ./KerBalloons/Parts/DunaBalloons/heavyPayload375.cfg.prune
-f94690d43c2a3fa76be33e7a9e020a91  ./KerBalloons/Parts/ServiceBays/ServiceBay_0625.cfg
-6dc2f47a3927992270686bade03d7a8a  ./KerBalloons/Parts/ServiceBays/ServiceBay_375.cfg
-40d6d4a46847c03b8cd4afbe36d0eebb  ./KerBalloons/Parts/Science/Recorder/part.cfg.prune
-146ac024d338a7e977109ec262007ee7  ./KerBalloons/Parts/Science/Recorder/Drum.mbm
-21ae08e1da6322638f629357bce32357  ./KerBalloons/Parts/Science/Recorder/Arm.mbm
-b37c054a7d85db0abe9bc27ab8bc0e4e  ./KerBalloons/Parts/Science/Recorder/NewModel.mu
-1e620922946b8a924449b71e0e032d2c  ./KerBalloons/Parts/Science/Recorder/Cover.mbm
-9f6d18e641c580284a775ba97aa8875b  ./KerBalloons/Parts/Science/CrossStaff/part.cfg.prune
-877c686b9339899d3fad240417ae79cd  ./KerBalloons/Parts/Science/CrossStaff/Cylinder1_auv.mbm
-cd14bbab6eba87798f570e8d8990338c  ./KerBalloons/Parts/Science/CrossStaff/NewModel.mu
-1e63ec8676a48cc611cffed1ab086b28  ./KerBalloons/Parts/Science/Sundial/part.cfg.prune
-9a0fd9f6076fd75b2f0de15473dd6b64  ./KerBalloons/Parts/Science/Sundial/Cylinder1_auv.mbm
-74c794705c3e3370582b247d4d614766  ./KerBalloons/Parts/Science/Sundial/Cylinder2_auv.mbm
-6acef9aded4e12a753177dea2b6fc974  ./KerBalloons/Parts/Science/Sundial/NewModel.mu
-0feef35d0a10305337d2c389542080df  ./KerBalloons/Parts/LaytheBalloons/standard0625.cfg.prune
-b05aab415ff7bf791e210590a668a885  ./KerBalloons/Parts/LaytheBalloons/heavyPayload0625.cfg.prune
-ec9abcd3a132e4f0f15eaa6edbaa03b5  ./KerBalloons/Parts/LaytheBalloons/standard125.cfg.prune
-ce24b74170501171c2973a8a43a1eb28  ./KerBalloons/Parts/LaytheBalloons/balloon25.mu
-e1725cdd32752e60cf7756ef0b07211a  ./KerBalloons/Parts/LaytheBalloons/highAltitude0625.cfg.prune
-16752124d29b86b3f24248861c87e0b7  ./KerBalloons/Parts/LaytheBalloons/balloon125.mu
-bf5de30a1f8ef41c8dcc7b13d29925e9  ./KerBalloons/Parts/LaytheBalloons/KBTexLaythe.mbm
-ba1eeac6dc668dec7094e7d72601e7e1  ./KerBalloons/Parts/LaytheBalloons/standard25.cfg.prune
-d5a43822f918a5c2e4f6144666a55ae0  ./KerBalloons/Parts/LaytheBalloons/heavyPayload25.cfg.prune
-11431f973bf0fbfb9ffd18bc4e1014d7  ./KerBalloons/Parts/LaytheBalloons/highAltitude125.cfg.prune
-b81b68eba42ee42264249cbe9b18db00  ./KerBalloons/Parts/LaytheBalloons/heavyPayload125.cfg.prune
-20abb74075b8784ebfd30d415c634e40  ./KerBalloons/Parts/LaytheBalloons/balloon375.mu
-677ccffa4404ca979b7fea84d2459829  ./KerBalloons/Parts/LaytheBalloons/balloon0625.mu
-bcc0765925bdd1c71a2c94ec2fb71f39  ./KerBalloons/Parts/LaytheBalloons/highAltitude375.cfg.prune
-22b64f1544a3135150265286a8e09c59  ./KerBalloons/Parts/LaytheBalloons/standard375.cfg.prune
-ed72b70668695ef10ac28524283ea253  ./KerBalloons/Parts/LaytheBalloons/highAltitude25.cfg.prune
-f6efcfdd4b852c1d684b09cb2c2b2bcb  ./KerBalloons/Parts/LaytheBalloons/heavyPayload375.cfg.prune
-0c73255d489f215b31c82f27604b9951  ./KerBalloons/Parts/Parachutes/chute25.cfg
-9a35b356185b829c4b594a1e00ea5447  ./KerBalloons/Parts/Parachutes/model.mu
-72c7672dd7f3d0c7006b76d88da570d4  ./KerBalloons/Parts/Parachutes/chute0625.cfg
-12742d09fea194aa600fc9ca8968d654  ./KerBalloons/Parts/Parachutes/chute125.cfg
-48e3a0ee21aed9f13d0d9334aec626ba  ./KerBalloons/Parts/Parachutes/KerBalloonsChuteTex.mbm
-656634e5e3f9dc996b3f0920a6dce08c  ./KerBalloons/Parts/Parachutes/chute375.cfg
-42ec61e51826efb0a12193663d26b726  ./KerBalloons/Parts/KerbinBalloons/standard375.cfg
-8f3e3d35b6704874983203b8450ee717  ./KerBalloons/Parts/KerbinBalloons/KBTexKerbin.mbm
-3012ffc251defbf43c28d9e74b482640  ./KerBalloons/Parts/KerbinBalloons/highAltitude125.cfg
-248544e4f45c992673d158f5cb98df9b  ./KerBalloons/Parts/KerbinBalloons/highAltitude0625.cfg
-ea32de083c05dfedb248cde070ece815  ./KerBalloons/Parts/KerbinBalloons/highAltitude25.cfg
-0c6b32d251701b034a4421505bdc70f3  ./KerBalloons/Parts/KerbinBalloons/heavyPayload0625.cfg
-923c288f225ba04238d59ae3f1a6fdda  ./KerBalloons/Parts/KerbinBalloons/heavyPayload25.cfg
-6569ab119737e1c5d439ba905fbbc7a1  ./KerBalloons/Parts/KerbinBalloons/balloon25.mu
-96dd32d087411de46845bcebc38ad130  ./KerBalloons/Parts/KerbinBalloons/balloon125.mu
-729ce18ff99b06feb2af6f3528575a0a  ./KerBalloons/Parts/KerbinBalloons/standard125.cfg
-ebc05be7bf826fb2a1c931f84f7ffc0a  ./KerBalloons/Parts/KerbinBalloons/heavyPayload125.cfg
-f20997fdb337defa9c230e58a12c5d11  ./KerBalloons/Parts/KerbinBalloons/standard25.cfg
-e58c69f35712880e38fed590e51ccd8c  ./KerBalloons/Parts/KerbinBalloons/balloon375.mu
-b83ae978c58be47f98861474386c65fe  ./KerBalloons/Parts/KerbinBalloons/heavyPayload375.cfg
-76199bbb9ffcf470a658b910939e679b  ./KerBalloons/Parts/KerbinBalloons/balloon0625.mu
-813930f10915d3edb055e8eb1750d9aa  ./KerBalloons/Parts/KerbinBalloons/highAltitude375.cfg
-0a3670fad3cc0d1b431dc72385dc097f  ./KerBalloons/Parts/KerbinBalloons/standard0625.cfg
-f13045b89ede147739fbe44a58c7ca22  ./KerBalloons/Parts/EveBalloons/standard0625.cfg.prune
-5258c387ea2b2ddb7d8bd4e7bd2fa06d  ./KerBalloons/Parts/EveBalloons/heavyPayload0625.cfg.prune
-6e8f242f95f11d3c3bf880ab9f104a9d  ./KerBalloons/Parts/EveBalloons/standard125.cfg.prune
-5bca4e5710d6665f04c76b5dc14cc2b5  ./KerBalloons/Parts/EveBalloons/balloon25.mu
-452cbbbf36c068f241ec8f5feb574d43  ./KerBalloons/Parts/EveBalloons/highAltitude0625.cfg.prune
-7b281a82cd1ef7fefd863a47e2b9f64d  ./KerBalloons/Parts/EveBalloons/balloon125.mu
-edbd7379595b84122a1ac68d330719ed  ./KerBalloons/Parts/EveBalloons/standard25.cfg.prune
-dc4271918156b0b2256d20a7ea4ef29d  ./KerBalloons/Parts/EveBalloons/heavyPayload25.cfg.prune
-9850ed1d730c42da9ce3a4ce05233d02  ./KerBalloons/Parts/EveBalloons/highAltitude125.cfg.prune
-b0579112e70e6356fad9d049be03c741  ./KerBalloons/Parts/EveBalloons/heavyPayload125.cfg.prune
-08dbc81e870f2bd5e8803497139f0b37  ./KerBalloons/Parts/EveBalloons/balloon375.mu
-db54d2c97ef40d4c68c90fe34a70bdf9  ./KerBalloons/Parts/EveBalloons/balloon0625.mu
-acc3d8706ed04d29ba6350a78449b358  ./KerBalloons/Parts/EveBalloons/highAltitude375.cfg.prune
-e92344429dee64aa84dffe7a6f3f9280  ./KerBalloons/Parts/EveBalloons/standard375.cfg.prune
-834f06ba9a0146fc319e57549de8fbe7  ./KerBalloons/Parts/EveBalloons/KBTexEve.mbm
-68a97e5f05edba3b2fba2d1d43cbab4a  ./KerBalloons/Parts/EveBalloons/highAltitude25.cfg.prune
-18cb708456f8bde02785e8ecfdda765b  ./KerBalloons/Parts/EveBalloons/heavyPayload375.cfg.prune
-c1cea23231f9dc38cf9ec9bb31889196  ./KerBalloons/Plugins/KerBalloons.dll
-118517f58a2d674d645f7f8f2cc9ff59  ./KerBalloons/Plugins/Kerballoons_on.png
-e882f0c250056ecd7c4f5d325b80bee6  ./KerBalloons/Plugins/Kerballoons_off.png
-51aaeb6976a94796d42252ec2641d3bd  ./KerBalloons/Sounds/deflate.wav
-2894f17c7cbe9401311e9aa8b1e9ace5  ./KerBalloons/Sounds/burst.wav
-50c2948c392451bd57781c294ccc6cd0  ./KerBalloons/Sounds/inflate.wav
-d1ee425d04d11f1f13854fcb14489957  ./KerBalloons/License.txt
-142bacb1d57f106030f0ca0d46a7c974  ./KerBalloons/Flags/KerBalloonsFlagAlpha.png
-f6681a85c5fc0ec7a2179ef073791d6a  ./KerBalloons/Flags/KerBalloonsFlag.png
-166a5c5aab4ae15913683b651271529c  ./toolbar-settings.dat
+2badec3250bfed588ddf221767692209  ./toolbar-settings.dat
 96fa2355217e4a601d4c842ed9a4c27f  ./RosterManager/Plugins/PluginData/RMSettings.dat
 a2864190a01664e0fd0559bd56e57a02  ./RosterManager/Plugins/RosterManager.dll
 40b001c1a2fc1cfacb8f2e87f62398d7  ./RosterManager/RosterManager.version
@@ -1209,7 +1112,7 @@ ff20e125ac47d489930bae218fbb217d  ./NRAP/NRAP.version
 4fb2cce3eec79e46ae78c8787a6a4817  ./[x] Science!/[x] Science!.version
 0323ddbcf1069b88e30fa03356af267f  ./[x] Science!/MiniAVC.dll
 5e9da9a35dcfa0974be8a489d16d6d22  ./[x] Science!/LICENSE.txt
-4a4d32ee7d131fd41899889e05e50c3e  ./[x] Science!/PluginData/[x] Science!/settings.cfg
+3b2b61ee1806c758d1f75aa46dcd9dcf  ./[x] Science!/PluginData/[x] Science!/settings.cfg
 510dbb9b0305904384ed0eab44583913  ./[x] Science!/bubbles.wav
 ad43168df35a57d272486fc06551c55e  ./[x] Science!/README.md
 1c2679c386cea582a85154f690e4c704  ./[x] Science!/[x] Science!.dll
@@ -2885,9 +2788,9 @@ e1accec8419626a738ffe69e11c835c2  ./HLAirships/Parts/Aero/Lifting Body/part.mu
 e3f9f77fe010e629071ceb1146311238  ./HLAirships/Parts/Aero/Lifting Body/HL_AirshipEnvelope.dds
 526306b924efe47352227c5406a9cc4b  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus/Thumbs.db
 24cfc9177848ee374d7bf1c3c47c0df3  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus/model002.dds
+f27e772c0977ed83e6bfedca0769849b  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus/part.cfg.prune
 db63a3d65eab6d813a427eb19280b850  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus/model.mu
 a0731814470c1515cb06e35c6b973e1d  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus/HL_AirshipEnvelope_Una.dds
-f27e772c0977ed83e6bfedca0769849b  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus/part.cfg
 f4da98e7aedec260c7fcacf9288b6ba4  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus/model001.dds
 781047ca97cfec6c75ad89c778b4d41f  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus/model004.dds
 a0731814470c1515cb06e35c6b973e1d  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus/model005.dds
@@ -2925,22 +2828,22 @@ cdcf61cd3759d7de7ed94a0b8aab280d  ./HLAirships/Parts/Aero/ZepKit/ZepMidHull.cfg
 d2558d7b267412de72c456fe4a731c8d  ./HLAirships/Parts/Aero/ZepKit/ZepMidNose.cfg
 1f2e883026029a89958a43db9019b4d0  ./HLAirships/Parts/Aero/ZepKit/ZepTailcone.mu
 e096188de6a9368144860a8292ef3686  ./HLAirships/Parts/Aero/ZepKit/ZepMidNose.mu
+0611057be42a59c64fff481e9b366b5f  ./HLAirships/Parts/Aero/OrbiterBasket/OrbiterBasket.mu.prune
 81ec188a74787a1535d862f068e0be90  ./HLAirships/Parts/Aero/OrbiterBasket/OrbiterBasket_NRM.png
 107e7f347aeac781d7d085bbcb7c1969  ./HLAirships/Parts/Aero/OrbiterBasket/OrbiterBasket.png
-c15614815b1b4e08a560e9500bc108ce  ./HLAirships/Parts/Aero/OrbiterBasket/OrbiterBasket.cfg
-0611057be42a59c64fff481e9b366b5f  ./HLAirships/Parts/Aero/OrbiterBasket/OrbiterBasket.mu
+c15614815b1b4e08a560e9500bc108ce  ./HLAirships/Parts/Aero/OrbiterBasket/OrbiterBasket.cfg.prune
 92529c16553a337884782f22e934d0e0  ./HLAirships/Parts/Aero/OMG Airship/model.mu
 c4f1d53a709009f988fd7e534a87e186  ./HLAirships/Parts/Aero/OMG Airship/part.cfg
 0a9c791a001021d0467d8b9f39b34b3f  ./HLAirships/Parts/Aero/OMG Airship/HL_AirshipEnvelope.dds
+969510e2e875e4fb2dfe5c449ecc3265  ./HLAirships/Parts/Aero/AirshipCap/part.cfg.prune
 c836160cbc652b05b4ecc251cefa488f  ./HLAirships/Parts/Aero/AirshipCap/model.mu
-969510e2e875e4fb2dfe5c449ecc3265  ./HLAirships/Parts/Aero/AirshipCap/part.cfg
 b16d7e4b08b3ece41ae4ec2494399f57  ./HLAirships/Parts/Aero/AirshipCap/EndCapTexMap2.png
 17767e1dcf519f6a30209735a3936f54  ./HLAirships/Parts/Aero/AirshipCap/EndCapTexMap2.dds
 526306b924efe47352227c5406a9cc4b  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus_Real/Thumbs.db
 24cfc9177848ee374d7bf1c3c47c0df3  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus_Real/model002.dds
+7f89a3f67bea2d81f0a537ea46fdcda2  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus_Real/part.cfg.prune
 db63a3d65eab6d813a427eb19280b850  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus_Real/model.mu
 a0731814470c1515cb06e35c6b973e1d  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus_Real/HL_AirshipEnvelope_Una.dds
-7f89a3f67bea2d81f0a537ea46fdcda2  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus_Real/part.cfg
 f4da98e7aedec260c7fcacf9288b6ba4  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus_Real/model001.dds
 781047ca97cfec6c75ad89c778b4d41f  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus_Real/model004.dds
 a0731814470c1515cb06e35c6b973e1d  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Cirrus_Real/model005.dds
@@ -2969,7 +2872,7 @@ b22fbab175ac3e1896946833f87026fc  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Una
 7cc3c1c6fddf6163a4e88e84c8dcf6c7  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Una/model.mu
 1621f63f8cd784a3f915c7c08f04479d  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Una/model001.dds
 49913d2d9ce700de24f8d1a1b109fdbb  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Una/model000.dds
-055efeb3c89c6c985dcdfe3c6d3a7c19  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_LudoBlimp/part.cfg
+055efeb3c89c6c985dcdfe3c6d3a7c19  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_LudoBlimp/part.cfg.prune
 a90426eeb5db74e9671b10d5407fa1f6  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_LudoBlimp/textures/Thumbs.db
 0e09747f37f32d3b27cf1ce4805eb315  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_LudoBlimp/textures/blimp.dds
 5dbd7183a2b342338df5f39d1fab9a51  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_LudoBlimp/blimp.dae
@@ -2982,8 +2885,8 @@ a90426eeb5db74e9671b10d5407fa1f6  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Lud
 26ba19f7ae4c91f004f9439186318688  ./HLAirships/Parts/Aero/AirshipPod/AirshipPod.cfg
 532785af798559a1e5bd8b05f5f94348  ./HLAirships/Parts/Aero/KerblingOrbiter/KerblingOrbiter_NRM.png
 c8fb377b883e04574bc69d9b0e8a98bf  ./HLAirships/Parts/Aero/KerblingOrbiter/KerblingOrbiter_DIF.png
-6094e0e914acb3695a965c7de8d5db0a  ./HLAirships/Parts/Aero/KerblingOrbiter/KerblingOrbiter.mu
-df21b24119afb300a4f368b576438925  ./HLAirships/Parts/Aero/KerblingOrbiter/KerblingOrbiter.cfg
+df21b24119afb300a4f368b576438925  ./HLAirships/Parts/Aero/KerblingOrbiter/KerblingOrbiter.cfg.prune
+6094e0e914acb3695a965c7de8d5db0a  ./HLAirships/Parts/Aero/KerblingOrbiter/KerblingOrbiter.mu.prune
 b22fbab175ac3e1896946833f87026fc  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Ray/Thumbs.db
 923bed45a11e5fefeb450f2c3c2e9c9a  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Ray/model002.dds
 db4d63aac9a89b2532da996504d8c51e  ./HLAirships/Parts/Aero/HL_AirshipEnvelope_Ray/part.cfg.prune
@@ -4323,7 +4226,7 @@ d2b9d0ac889bfd87fb9034bf4a86e946  ./KerbalConstructionTime/KCT_Presets/default.c
 9596364700f0d0d141547dd829757188  ./KerbalConstructionTime/KCT_Presets/7Days.cfg
 5d3b6276918b36b28b66d562da3a87cf  ./KerbalConstructionTime/KCT_Presets/rlowtech.cfg
 3c166cef514312b532c25bb3fe7aca98  ./KerbalConstructionTime/KCT_ModuleTemplates.cfg
-599727103568a4fe2b8cfa9e44c6e415  ./KerbalConstructionTime/PluginData/KCT_Windows.txt
+0643f506958068411db8754e696408a9  ./KerbalConstructionTime/PluginData/KCT_Windows.txt
 4ff9c77227aa984ea720d2e50cf890c6  ./KerbalConstructionTime/PluginData/KCT_Config.txt
 d896268ab67688aa53d714238332c1f7  ./KerbalConstructionTime/.version
 d32239bcb673463ab874e80d47fae504  ./KerbalConstructionTime/License.txt
@@ -4336,6 +4239,30 @@ b5b6bed06dd8ed68f00c26d0b4cede89  ./000_ClickThroughBlocker/LICENSE.md
 a00d019b596459baa33a408414958e53  ./000_ClickThroughBlocker/MiniAVC.xml
 ae70a0e4df78dbd5ecbfe4b3e000536b  ./000_ClickThroughBlocker/README.md
 ae2f06696d31ed89247fd46bcfb4fead  ./000_ClickThroughBlocker/ClickThroughBlocker.version
+216246a736570166a53b02f5ab154ed5  ./NEBULA/EVAHandRailsPack/nebulaEvaHandrailsPatch.cfg
+1dec882a8d5154ec8af27de09275d034  ./NEBULA/EVAHandRailsPack/readme.txt
+646877270005a3ec3fd68e3adb21c2af  ./NEBULA/EVAHandRailsPack/EVAHandrailsPackContinued.version.old
+b8fb61052e003d63d97728fcb5c8bd6f  ./NEBULA/EVAHandRailsPack/EVAHandrailsPackContinued.version
+d06bd6bceca7cc3edbb97ca879da6993  ./NEBULA/EVAHandRailsPack/handrail 1mR curved/model.mu
+d48d7fb7b3ea49cd7b7cf8f1be40b03f  ./NEBULA/EVAHandRailsPack/handrail 1mR curved/handrail 1mR curved.cfg
+88f8964451bf5f5b51811a5f0b148690  ./NEBULA/EVAHandRailsPack/handrail 1mR curved/yellow128.mbm
+bcaacfdb978ce7cf63e930c7e86fd000  ./NEBULA/EVAHandRailsPack/handle/handle type1.cfg
+f375a85d60aeed6afd41a0e4bd7e9100  ./NEBULA/EVAHandRailsPack/handle/model.mu
+88f8964451bf5f5b51811a5f0b148690  ./NEBULA/EVAHandRailsPack/handle/yellow128.mbm
+991be18b86195caaa07bc69b4fcd6995  ./NEBULA/EVAHandRailsPack/MiniAVC.dll
+22af64fa02738155895220de1c3a64b2  ./NEBULA/EVAHandRailsPack/ModuleManager.3.1.1.dll
+1a3ab82dcf27cf60a59d0aec62891da5  ./NEBULA/EVAHandRailsPack/handrail type1/model.mu
+07625a268a40f48424b93047fb05af07  ./NEBULA/EVAHandRailsPack/handrail type1/handrail type1.cfg
+88f8964451bf5f5b51811a5f0b148690  ./NEBULA/EVAHandRailsPack/handrail type1/yellow128.mbm
+ef5c4ebfec56f57f8c54d892064035d9  ./NEBULA/EVAHandRailsPack/ChangeLog.txt
+18f829db1654d86a17493323ab909b8d  ./NEBULA/EVAHandRailsPack/handrail type2/handrail type2.cfg
+0210a256f6b03bcc936bbc7aa265a86a  ./NEBULA/EVAHandRailsPack/handrail type2/model.mu
+88f8964451bf5f5b51811a5f0b148690  ./NEBULA/EVAHandRailsPack/handrail type2/yellow128.mbm
+7ac65d25cadf3b5d207544f92baeb0e4  ./NEBULA/EVAHandRailsPack/handrail 2mR curved/handrail 2mR.cfg
+49ae01d3ca06f49c1b47bcf91254f377  ./NEBULA/EVAHandRailsPack/handrail 2mR curved/model.mu
+88f8964451bf5f5b51811a5f0b148690  ./NEBULA/EVAHandRailsPack/handrail 2mR curved/yellow128.mbm
+e302167c8edda4fdbffb5133432cc819  ./NEBULA/EVAHandRailsPack/Flags/NEBULA-dark.png
+73dba2ce2afe6416c6698e97ed9a9ff9  ./NEBULA/EVAHandRailsPack/Flags/NEBULA-light.png
 b2aad878ea4f07b9fb8351bfd45a51a1  ./UmbraSpaceIndustries/ReactorPack/Parts/Nuke_625.cfg
 a8e82fd67bd8a6ee49ff29aa52d21712  ./UmbraSpaceIndustries/ReactorPack/Parts/Nuke_125_S.cfg
 1f310718cff6593fb1723ba1a9c3b66a  ./UmbraSpaceIndustries/ReactorPack/Parts/Nuke_250.cfg
@@ -7407,7 +7334,8 @@ cdb85b378b8524a4be811f3bbd106a36  ./Severedsolo/OhScrap/MM Patches/ReactionWheel
 0256bdbdc5159d93f478fec160c0381d  ./Severedsolo/OhScrap/MM Patches/ControlSurfaceFailureModule.cfg
 5061f6bbd2b1a34795dd854bb7331b6a  ./Severedsolo/OhScrap/Icon.png
 e00d061553660b27a4155e7c3ea0f5d5  ./Severedsolo/OhScrap/License.txt
-581398d1bb12a303c8cecb5e6a838d71  ./Severedsolo/OhScrap/Logs/2019-10-23 10-56-46.txt
+d2178066e96003fdad804569ea490f6b  ./Severedsolo/OhScrap/Logs/2019-11-13 23-37-10.txt
+ab5498a45f5159e242005dff5020dc1b  ./Severedsolo/OhScrap/Logs/2019-11-13 23-41-31.txt
 6994753635decbd4dbc4ebbeb00c3c04  ./ThunderAerospace/TacLifeSupport/Localization.cfg
 6961e756d4596285b56b69af3ee1d85a  ./ThunderAerospace/TacLifeSupport/LifeSupport.cfg
 b4072b1dbfe9acbd8669be229135e023  ./ThunderAerospace/TacLifeSupport/MM_AddResources.cfg
@@ -12086,7 +12014,7 @@ c932fffee9e7500c639138f4b64099b9  ./KerbalEngineer/Parts/Engineer7500/model000.m
 6d323a77b87a4c18339b011cef2d0c00  ./KerbalEngineer/KerbalEngineer.dll
 012e4a97826ccde19ea583fbe798ab48  ./KerbalEngineer/MiniAVC.dll
 0a154f99a0f21fe9e8e72ba3759cc58b  ./KerbalEngineer/Settings/SectionLibraryTS.xml
-a42335f1fbeb4e82038e84d5b683cebc  ./KerbalEngineer/Settings/SectionLibrary.xml
+0007ea2c4713cfb4374c315d1c786c00  ./KerbalEngineer/Settings/SectionLibrary.xml
 4315b05695e8c0fa2cb74e78d318a2e7  ./KerbalEngineer/Settings/GuiDisplaySize.xml
 92c10432d25c6e3f303db8b1f45bc8e7  ./KerbalEngineer/Settings/BuildAdvanced.xml
 900d971bb1729198963d0c899060005f  ./KerbalEngineer/Settings/BuildOverlay.xml
@@ -12509,7 +12437,8 @@ b40209ba0cf4e4c42cd8042fde4bd186  ./PhysicsRangeExtender/README.md
 991be18b86195caaa07bc69b4fcd6995  ./JanitorsCloset/MiniAVC.dll
 fe5aff0c29c1b970f922be81f66d0fb4  ./JanitorsCloset/LICENSE.txt
 822e6d9ddbb41c4ddc79b8dbbfa2e1cd  ./JanitorsCloset/JanitorsCloset.version
-fb0751dae2fc82659268fccb59746a79  ./JanitorsCloset/PluginData/RenamedFiles.dat
+8a5c84318e198f147a29409650c9c8e8  ./JanitorsCloset/PluginData/HLAirshipsFinal.prnlst
+ba6f643f2d5ce83a56dcd2446e482375  ./JanitorsCloset/PluginData/RenamedFiles.dat
 fffc88bb5b1d9def1ebd547f4ddb94db  ./JanitorsCloset/PluginData/NearFutureAero-Pass1.prnlst
 0bca39688db1a53c7944a5be2d85209e  ./JanitorsCloset/PluginData/JanitorsClosetDefault.cfg
 ad1124cdf949996a71cdd7bb407c7073  ./JanitorsCloset/PluginData/JCBlacklist.cfg
@@ -13423,7 +13352,7 @@ f1e38bcc492f6b151810579ab63f8c9f  ./KerbalReusabilityExpansion/GridFins/Fins Tex
 1e227cb79dde1dec7cdc8444dc596bd7  ./KerbalReusabilityExpansion/FuelTank/FuelTank.cfg
 46930615fdc539ac43b2fa0141dfc3d7  ./KerbalReusabilityExpansion/FuelTank/FuelTank.mu
 393299647bc5b36ce90392c8b07ce67a  ./KerbalReusabilityExpansion/FuelTank/FuelTankTexture.dds
-675375c8f2685dbd8268dafd806143de  ./ModuleManager.ConfigCache
+912b345b3e2dde9867c58cd2abb23221  ./ModuleManager.ConfigCache
 c27838152d2dafade8a1a901dfa0388f  ./kOS/Parts/KOSCherryLight/Metal_Silver.dds
 c71f267f8b0fd0386d65cf5902f3f77c  ./kOS/Parts/KOSCherryLight/Cherrylight.mu
 e515f6e1a203fdb80c69ed732d123a84  ./kOS/Parts/KOSCherryLight/dirty aluminum.dds
@@ -13485,7 +13414,7 @@ c8164876b6f66616d68387443621510c  ./kOS/Plugins/ICSharpCode.SharpZipLib.dll
 e285a6d7e8ca6a093515aa1f5f9d4c7c  ./kOS/kOS.version
 b01f65bdc3696f8db2d12723f0367bfa  ./kOS/Readme
 094d3fb508260344e0be4d2d1053695a  ./kOS/Flags/kOS-Logo.dds
-2f464f66a12529e7cfc4fc4075082112  ./ModuleManager.ConfigSHA
+eecba293d241e28708fa81a1043e7bef  ./ModuleManager.ConfigSHA
 35f81ffeebae7c03837083d83b39e502  ./DeployableEngines/Plugins/DeployableEngines.dll
 b3425bad9419412c9c7dd7b84bfc4eea  ./DeployableEngines/Versioning/DeployableEngines.version
 b61d7e284ed76de3328feabbf0b24e10  ./SmartParts/Parts/Fuel-Breakers/B2.cfg
@@ -14276,7 +14205,7 @@ a70098c8568c987c096fcf7ff60bbf60  ./NearFutureProps/Props/Console/NF_CNSL_GreyPa
 ea59364f47a2c15b9412e55707709381  ./NearFutureProps/Props/Console/NF_CNSL_MFD_Bezels.cfg
 b95753f777c509f6b986273f3dfacf68  ./NearFutureProps/Props/Console/NF_CNSL_MFD_Bezels.mu
 0b02f99e373f36ffe189a6686d0db667  ./NearFutureProps/Versioning/NearFutureProps.version
-bbb9733b8fe557f5fda4574905ff1e23  ./FinalFrontier.dat
+946d6030ba38dfb47ba43d2e39f404df  ./FinalFrontier.dat
 8b2d81462fa65e8f0f050b2ab2d73c8e  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KACIcon-Norm.png
 8a7858093d9304c77191e3482f160a93  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KACIconBig-WarpEffect2_000.png
 e73087c6c66bff04a264c0104d95d70d  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KACIconBig-PauseEffect_000.png
@@ -14309,7 +14238,7 @@ bad454c9e9ff8fa1ba3fe4f8b81019dd  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KA
 17e122d8a708f8d9556da8b79367a350  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KACIconBig-Alarm.png
 aed15ee34fbbf206f72988f05a000cf3  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KACIconBig-PauseEffect_100.png
 460516930a972e5fc5f27c873df8bcea  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KACIconBig-WarpEffect2_100.png
-34e75c4ff81a2a890bdc9bdde55ff1f7  ./TriggerTech/KerbalAlarmClock/PluginData/settings.cfg
+780a74b0974287064f83915cbab6b435  ./TriggerTech/KerbalAlarmClock/PluginData/settings.cfg
 4d0e8b9cccaa7eab8bf85c5266499be2  ./TriggerTech/KerbalAlarmClock/PluginData/Data/data_TransferModelData.csv
 e53651e59be79c813070b02ebf6a4992  ./TriggerTech/KerbalAlarmClock/PluginData/Data/data_TransferModelData.txt
 4e4f828568571e1979fdfccbf1236c1f  ./TriggerTech/KerbalAlarmClock/PluginData/Textures/img_listiconDN.png
@@ -14409,7 +14338,7 @@ be2052f2678d9dfc50c0b16f08380f7d  ./TriggerTech/TransferWindowPlanner/TransferWi
 a49a90548f99784cd485c289d33a2c76  ./TriggerTech/TransferWindowPlanner/ToolbarIcons/TWPIconBig.png
 4e6e00191aed7049d0d391598c22dde1  ./TriggerTech/TransferWindowPlanner/ToolbarIcons/TWPIcon.png
 ae5a1685adb9b1e4dc4f0591e56fde81  ./TriggerTech/TransferWindowPlanner/TransferWindowPlanner.dll
-8ffc82cda24e188dd11ffae32815bae9  ./TriggerTech/TransferWindowPlanner/PluginData/settings.cfg
+9d9208b1f49d52d1fbdc851f5f48b545  ./TriggerTech/TransferWindowPlanner/PluginData/settings.cfg
 ec7823a09e796f88ecb89e49c85d6982  ./TriggerTech/TransferWindowPlanner/Textures/img_SeparatorHorizontal.png
 28a7ee1e4b280a5310f4c82d1faa988f  ./TriggerTech/TransferWindowPlanner/Textures/img_buttonCopy.png
 f5f44930ca9fc50798e512e64dc639c8  ./TriggerTech/TransferWindowPlanner/Textures/img_buttonKAC.png
@@ -15977,7 +15906,7 @@ d7a468d9808d3f33c62c6d43c331f260  ./DecouplerShroud/Textures/TopDotNor.dds
 d4a2aadc11b9252059cf585bb7cd88d5  ./DecouplerShroud/Textures/SurfDefaultNor.dds
 031cf40e8cbde2b17801c550d8a96270  ./DecayingRTGs/NFElectricalRTGPatch.cfg
 e59a69f1d18d81a085cf099e16199fb0  ./000_KSPe.dll
-b14dc84b96ab4557356f9d894b320587  ./ModuleManager.TechTree
+7199633bbd491ff2ae131e21bb7b2bdb  ./ModuleManager.TechTree
 52b4d298d4f3b93c05591a9ca86f7f10  ./PreciseNode/Plugins/PreciseNode.dll
 3911005b4acb2657f4f0f75accb36751  ./PreciseNode/Plugins/PreciseNode.dll.mdb
 6793739e9592576c336afdf1bac3d2a3  ./PreciseNode/Plugins/PluginData/PreciseNode/config.xml
@@ -16328,7 +16257,7 @@ cc66952d3688794487c49bb2dd852f23  ./000_USITools/Manufacturing_N.png
 b834737704cc1ffdc2e51752fb701195  ./MPUtils/Plugins/Maritime Pack_off.png
 6097bf55bf3a4ed63284b770846bbef4  ./MPUtils/Plugins/Maritime Pack_on.png
 98a2d11e093a33d8726471e2929ffbaf  ./MPUtils/Plugins/MPEngineSounds.dll
-40458ae189603752982ac08064968847  ./MPUtils/Plugins/PluginData/MPLog.dat
+1839addbf7285b22fdb0bbef39efaab4  ./MPUtils/Plugins/PluginData/MPLog.dat
 8692107b936727697a862f1727b84a99  ./MPUtils/Plugins/PluginData/CVFlightDeck/config.xml
 da8cd5334680c5b2f5027ed14e66c835  ./MPUtils/Plugins/PluginData/MPUtils/config.xml
 02b916f20fe088e2e1bd6d61f13df864  ./MPUtils/Plugins/1869_on.png
@@ -22198,8 +22127,8 @@ e51e25f980e11c2c474dcf89771603d6  ./Trajectories/Plugin/Trajectories.dll
 9912b7332f941168f045a434a09d4dfe  ./FMRS/license.txt
 8ce9eaa6883af97d2e8b96b932a49f60  ./FMRS/Plugins/FMRS.dll
 c725cf1d9fec80595147c97af7c6dba0  ./FMRS/Plugins/FMRS.dll.mdb
-2a1a247846fa4f97b0f77a8d9749b23d  ./FMRS/Plugins/PluginData/FMRS/record.txt
-ca396a10a0e7f82aa9485d7270f81288  ./FMRS/Plugins/PluginData/FMRS/save.txt
+3aa0eed4d717204917fac3065bbdf3b6  ./FMRS/Plugins/PluginData/FMRS/record.txt
+fb786de67a3a0268e0632343cf2ae50f  ./FMRS/Plugins/PluginData/FMRS/save.txt
 d41d8cd98f00b204e9800998ecf8427e  ./FMRS/Plugins/PluginData/FMRS/recover.txt
 991be18b86195caaa07bc69b4fcd6995  ./FMRS/MiniAVC.dll
 86e8e961b28b9d670f3d8e074aec594d  ./FMRS/FMRS_MM.cfg
