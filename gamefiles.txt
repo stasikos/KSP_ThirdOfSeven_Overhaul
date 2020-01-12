@@ -392,7 +392,7 @@ d19a722d56b9bdc89441de194bdf65fa  ./RealPlume-Stock/VenStockRevamp/ionEngine.cfg
 b0bbf2dd1556b092d5fe2c86e23b6cb8  ./RealPlume-Stock/VenStockRevamp/solidBooster_sm.cfg
 43caf8b0ca43ced11dfb375be2803370  ./RealPlume-Stock/VenStockRevamp/engineLargeSkipper.cfg
 72098c9b019770730f109368bd346d8f  ./RealPlume-Stock/VenStockRevamp/liquidEngine2-2.cfg
-2badec3250bfed588ddf221767692209  ./toolbar-settings.dat
+e24e9542d692ab3034a514c70093db3a  ./toolbar-settings.dat
 96fa2355217e4a601d4c842ed9a4c27f  ./RosterManager/Plugins/PluginData/RMSettings.dat
 a2864190a01664e0fd0559bd56e57a02  ./RosterManager/Plugins/RosterManager.dll
 40b001c1a2fc1cfacb8f2e87f62398d7  ./RosterManager/RosterManager.version
@@ -1112,7 +1112,7 @@ ff20e125ac47d489930bae218fbb217d  ./NRAP/NRAP.version
 4fb2cce3eec79e46ae78c8787a6a4817  ./[x] Science!/[x] Science!.version
 0323ddbcf1069b88e30fa03356af267f  ./[x] Science!/MiniAVC.dll
 5e9da9a35dcfa0974be8a489d16d6d22  ./[x] Science!/LICENSE.txt
-3b2b61ee1806c758d1f75aa46dcd9dcf  ./[x] Science!/PluginData/[x] Science!/settings.cfg
+fd5390aa8840e20d0ec181995bd62e09  ./[x] Science!/PluginData/[x] Science!/settings.cfg
 510dbb9b0305904384ed0eab44583913  ./[x] Science!/bubbles.wav
 ad43168df35a57d272486fc06551c55e  ./[x] Science!/README.md
 1c2679c386cea582a85154f690e4c704  ./[x] Science!/[x] Science!.dll
@@ -2238,42 +2238,6 @@ d0b61fb620ae81dfdf1a93c9922984b5  ./WaypointManager/icons/CelestialBodies/Vall.p
 b6ec9df0758a7514b5c458d89e7332cf  ./WaypointManager/icons/deleteWaypoint.png
 361fabbd02a6d12132e3395a51a6bb42  ./WaypointManager/icons/editWaypoint.png
 7bca3e10544af4bd448ad89a54c2a8d5  ./WaypointManager/icons/toolbarSmall.png
-8a593788bb48ccd66d7dacd3fcdf324e  ./AtmosphereAutopilot/designs/C-7500.txt
-da00dbb70724fb249663b701542921f4  ./AtmosphereAutopilot/designs/C-7500 Charged.txt
-777d5636587b237b53653b07ba5a427b  ./AtmosphereAutopilot/designs/Buzz-C.txt
-d97b357ec5cc65b72732e28659db9df2  ./AtmosphereAutopilot/designs/UAV-0625-T2.txt
-f77f8585651255ad5f7088976a0024e8  ./AtmosphereAutopilot/designs/Hydro25.txt
-42a9a1a6383102ab19acb2d1dd631df8  ./AtmosphereAutopilot/designs/Sat-1.txt
-e13f69c4a359eeed06ac592126b5f5d8  ./AtmosphereAutopilot/designs/C-MK3.txt
-bfaef5f2258196754836ffdc48896ca4  ./AtmosphereAutopilot/designs/Buzz A-1.txt
-14b672598976a8f7049040196f6e0d38  ./AtmosphereAutopilot/designs/RecoveryPlane.txt
-9b337e083c7ab5b9b96a04731f349d1f  ./AtmosphereAutopilot/designs/CP-2k A.txt
-5ddfa186713603bd3f23d3c42d2f76b9  ./AtmosphereAutopilot/designs/M2X Grasshopper.txt
-42a9a1a6383102ab19acb2d1dd631df8  ./AtmosphereAutopilot/designs/Sputnik.txt
-4a5d141aff5671eaf1811e2cf34040b8  ./AtmosphereAutopilot/designs/Buzz B.txt
-97ce3b67fa12ad94545a75235dbd6931  ./AtmosphereAutopilot/designs/Ospinder.txt
-ae1be75eb09512199d6e8c83e7eb86b1  ./AtmosphereAutopilot/designs/Buzz.txt
-448b3d11c79fd522ee32ee41ecf103c6  ./AtmosphereAutopilot/designs/Buzz-E.txt
-1f1165627610af47a38840bc3ab41d39  ./AtmosphereAutopilot/designs/Scientific-1.txt
-febc171501a622bb04d115d07a8205d9  ./AtmosphereAutopilot/designs/UAV-0625-T1 (Equipped).txt
-1f1165627610af47a38840bc3ab41d39  ./AtmosphereAutopilot/designs/SR_kOSTest.txt
-3d27160349acc1723abfaa44c94435f7  ./AtmosphereAutopilot/designs/HighBird.txt
-d55fdd909e49fc88fd29ff967de6c65d  ./AtmosphereAutopilot/designs/SSTO-40.txt
-df33abb170a6d54bbbb26a2030a7dafb  ./AtmosphereAutopilot/designs/Comet.txt
-0815e96611e5c91b21e11fb578e753a0  ./AtmosphereAutopilot/designs/UAV-0625-T1.txt
-8f848fce7b84ec003a4beafe331ca348  ./AtmosphereAutopilot/designs/CP-2k.txt
-346104c48fdf314686159b3e4a432bd8  ./AtmosphereAutopilot/designs/Buzz C-0.txt
-fd6e6c63c05a2fbbe4cc7edb87fc5010  ./AtmosphereAutopilot/designs/Buzz-Tandem.txt
-dea12c9da80edd777ce2a20e88155418  ./AtmosphereAutopilot/designs/Stearwing A300.txt
-69d292b0e2b400e43843590151691d50  ./AtmosphereAutopilot/atmosphereautopilotprefabs
-a3e234558c9b14b4aae2e4a69690f84c  ./AtmosphereAutopilot/icon.png
-b6db6feb96a5e6f1ae11a5cef851e16b  ./AtmosphereAutopilot/Global_settings.txt
-fbe2826173302c49c590cfdb100b7205  ./AtmosphereAutopilot/README.txt
-90ca9dfdb9c661ac7b4669c5d16a36b5  ./AtmosphereAutopilot/AtmosphereAutopilot.version
-de04d04f80c0b76d4b587f258b2b810d  ./AtmosphereAutopilot/AtmosphereAutopilot.XML
-147c5319b3673e86b6721c78877c0e8b  ./AtmosphereAutopilot/csurf_sync.cfg
-56caf205699619b9d8a07510df1a8be0  ./AtmosphereAutopilot/AtmosphereAutopilot.UI.dll
-3fff5fe3d281175cf6d5a11f3eded711  ./AtmosphereAutopilot/AtmosphereAutopilot.dll
 b96aa4d7b77135aa5f7008cfca99f858  ./ModuleManager.4.0.2.dll
 d469cd199c93c6aacfdff45b082cf267  ./blackheart/Parts/stickerbig/placeholder.mbm
 b0ed75d4d46ce0e4419932fa031307e4  ./blackheart/Parts/stickerbig/model.mu
@@ -3958,7 +3922,7 @@ a90e6b6672e51a95dce254db1761ef74  ./GPP/GPP_KSC++/ExtraLaunchSites/Crawlerway.cf
 b4656ba8517a68746d2f7b4debadef19  ./GPP/GPP_KSC++/ExtraLaunchSites/TrackingStation.cfg
 a180b250508bf7f9f937b078dc3b604e  ./GPP/GPP_KSC++/ExtraLaunchSites/VAB5.cfg
 6136a23106b11de9cb2dd1c8e5fc69c5  ./GPP/GPP_KSC++/ExtraLaunchSites/ResearchAndDevelopment.cfg
-177e2e06d18acdd280af4f58e4b6693a  ./GPP/GPP_KSC++/ExtraLaunchSites/LaunchPad.cfg
+0bbf03c3cec619062a19b948c64ccf42  ./GPP/GPP_KSC++/ExtraLaunchSites/LaunchPad.cfg
 361c5b2cc18ccd41426b929ab9aa3077  ./GPP/GPP_KSC++/ExtraLaunchSites/VehicleAssemblyBuilding.cfg
 51656a2afaae81f32bd7d037a63ac3ca  ./GPP/GPP_KSPedia.ksp
 65a861fd73401e1f5a6bb5da28f368a5  ./PhotonSail/Parts/LaserIR/Laser_IR_Lens_Blue.png
@@ -4226,7 +4190,7 @@ d2b9d0ac889bfd87fb9034bf4a86e946  ./KerbalConstructionTime/KCT_Presets/default.c
 9596364700f0d0d141547dd829757188  ./KerbalConstructionTime/KCT_Presets/7Days.cfg
 5d3b6276918b36b28b66d562da3a87cf  ./KerbalConstructionTime/KCT_Presets/rlowtech.cfg
 3c166cef514312b532c25bb3fe7aca98  ./KerbalConstructionTime/KCT_ModuleTemplates.cfg
-0643f506958068411db8754e696408a9  ./KerbalConstructionTime/PluginData/KCT_Windows.txt
+adcbfcd45eec1efb2c57d37f8eda6b96  ./KerbalConstructionTime/PluginData/KCT_Windows.txt
 4ff9c77227aa984ea720d2e50cf890c6  ./KerbalConstructionTime/PluginData/KCT_Config.txt
 d896268ab67688aa53d714238332c1f7  ./KerbalConstructionTime/.version
 d32239bcb673463ab874e80d47fae504  ./KerbalConstructionTime/License.txt
@@ -7316,26 +7280,30 @@ ce4d18de458665f1bd5bf69f6458eb73  ./RLA_Reborn/Credits.txt
 e7000c67394bc34bfb7e01fc118aba6b  ./CustomBarnKit/CustomBarnKit.dll
 fdf635d1437ee8663b5ad0ebf664b9e8  ./CustomBarnKit/LICENSE.txt
 c60488e36c31dd6d14442eb3b3804f6d  ./CustomBarnKit/CustomBarnKit.version
-0f2e4dda1ba20068f9db714b36e9726e  ./Severedsolo/OhScrap/OhScrap.version
-4738a3dd4d9ebf1308dadf49750024bf  ./Severedsolo/OhScrap/OhScrap.dll
-0d06fc476a2b7637d70a8db615297225  ./Severedsolo/OhScrap/PluginData/DefaultSettings.cfg
+fbfc66548d8a2abd5ba8edc7d2b110f6  ./Severedsolo/OhScrap/OhScrap.version
+5b15697d5aeaf583d1473eb18b20bac3  ./Severedsolo/OhScrap/OhScrap.dll
+1a5fd954a4852c56b95b12503059d0e2  ./Severedsolo/OhScrap/PluginData/DefaultSettings.cfg
+eca23f048ea43abcacb3da90e4742aaf  ./Severedsolo/OhScrap/MM Patches/RTAntennaFailureModule.cfg
 8650f444b92caacbfa02c8cd44c0c2a9  ./Severedsolo/OhScrap/MM Patches/SolarPanelFailureModule.cfg
 adacc3590a27e5e24a25bc4d3a64aff5  ./Severedsolo/OhScrap/MM Patches/ModuleUPFMEvents.cfg
-670ef1d0c6059601019199ff7644a3c8  ./Severedsolo/OhScrap/MM Patches/ParachureFailures.cfg
 d25ae61ea0accbcf1a977a06068380c3  ./Severedsolo/OhScrap/MM Patches/DontLeak.cfg
+dd63e2377892216800bf52d2fed17f29  ./Severedsolo/OhScrap/MM Patches/FARControlSurfaceFailureModule.cfg
 992e0f86bfabecb0eff98201bd1d90c1  ./Severedsolo/OhScrap/MM Patches/TankFailureModule.cfg
-985d96bef2858b0d3b6e9c26d12ce54b  ./Severedsolo/OhScrap/MM Patches/AntennaFailureModule.cfg
+9da8ba46896d0d934e3980206cdfc8d8  ./Severedsolo/OhScrap/MM Patches/AntennaFailureModule.cfg
 a6b38480e97372d91314f1cce0c1d818  ./Severedsolo/OhScrap/MM Patches/ForbiddenModules.cfg
+5833dfa2d2b4f2e248e33383dc8f57f0  ./Severedsolo/OhScrap/MM Patches/ParachuteFailureModule.cfg
 97b978cdb1dcf6149e0bfe0d4f498cde  ./Severedsolo/OhScrap/MM Patches/SRBFailureModule.cfg
 cdb85b378b8524a4be811f3bbd106a36  ./Severedsolo/OhScrap/MM Patches/ReactionWheelFailureModule.cfg
 9b2526cda1fe19d6cdefa01165d59fe8  ./Severedsolo/OhScrap/MM Patches/BatteryFailureModule.cfg
 195ed66a743b7fead25454ce7f772d21  ./Severedsolo/OhScrap/MM Patches/RCSFailures.cfg
 61ce004cd491f0585cebfa8702f40381  ./Severedsolo/OhScrap/MM Patches/EngineFailureModule.cfg
-0256bdbdc5159d93f478fec160c0381d  ./Severedsolo/OhScrap/MM Patches/ControlSurfaceFailureModule.cfg
+5b51ca10f01d0b207082db2f0627921a  ./Severedsolo/OhScrap/MM Patches/ControlSurfaceFailureModule.cfg
 5061f6bbd2b1a34795dd854bb7331b6a  ./Severedsolo/OhScrap/Icon.png
-e00d061553660b27a4155e7c3ea0f5d5  ./Severedsolo/OhScrap/License.txt
-d2178066e96003fdad804569ea490f6b  ./Severedsolo/OhScrap/Logs/2019-11-13 23-37-10.txt
-ab5498a45f5159e242005dff5020dc1b  ./Severedsolo/OhScrap/Logs/2019-11-13 23-41-31.txt
+2e2d799a0fe47d8b0e287ad971fb96a9  ./Severedsolo/OhScrap/License.txt
+afde63b2ed4ff99d04a09f73dd0027a3  ./Severedsolo/OhScrap/Logs/2019-12-25 11-51-14.txt
+13156e78a4b8d6befb374485fc0d4666  ./Severedsolo/OhScrap/Logs/2019-12-25 11-53-47.txt
+cad84c8c178c025edf649ef8b3683be2  ./Severedsolo/OhScrap/Logs/2019-12-25 11-44-49.txt
+c3a2e8b40513fb8be8dbb0802fcacb92  ./Severedsolo/OhScrap/Logs/2019-12-25 13-15-57.txt
 6994753635decbd4dbc4ebbeb00c3c04  ./ThunderAerospace/TacLifeSupport/Localization.cfg
 6961e756d4596285b56b69af3ee1d85a  ./ThunderAerospace/TacLifeSupport/LifeSupport.cfg
 b4072b1dbfe9acbd8669be229135e023  ./ThunderAerospace/TacLifeSupport/MM_AddResources.cfg
@@ -12014,9 +11982,9 @@ c932fffee9e7500c639138f4b64099b9  ./KerbalEngineer/Parts/Engineer7500/model000.m
 6d323a77b87a4c18339b011cef2d0c00  ./KerbalEngineer/KerbalEngineer.dll
 012e4a97826ccde19ea583fbe798ab48  ./KerbalEngineer/MiniAVC.dll
 0a154f99a0f21fe9e8e72ba3759cc58b  ./KerbalEngineer/Settings/SectionLibraryTS.xml
-0007ea2c4713cfb4374c315d1c786c00  ./KerbalEngineer/Settings/SectionLibrary.xml
+a42335f1fbeb4e82038e84d5b683cebc  ./KerbalEngineer/Settings/SectionLibrary.xml
 4315b05695e8c0fa2cb74e78d318a2e7  ./KerbalEngineer/Settings/GuiDisplaySize.xml
-92c10432d25c6e3f303db8b1f45bc8e7  ./KerbalEngineer/Settings/BuildAdvanced.xml
+787abda186e075ce0ac007d90494e99d  ./KerbalEngineer/Settings/BuildAdvanced.xml
 900d971bb1729198963d0c899060005f  ./KerbalEngineer/Settings/BuildOverlay.xml
 4c5a11a53ad70ee7c323504a33817531  ./KerbalEngineer/Settings/HelpStrings.xml
 18ef34ed21a6a31b47f14199c7accbb0  ./KerbalEngineer/Settings/ReadoutsConfig.xml
@@ -13352,7 +13320,7 @@ f1e38bcc492f6b151810579ab63f8c9f  ./KerbalReusabilityExpansion/GridFins/Fins Tex
 1e227cb79dde1dec7cdc8444dc596bd7  ./KerbalReusabilityExpansion/FuelTank/FuelTank.cfg
 46930615fdc539ac43b2fa0141dfc3d7  ./KerbalReusabilityExpansion/FuelTank/FuelTank.mu
 393299647bc5b36ce90392c8b07ce67a  ./KerbalReusabilityExpansion/FuelTank/FuelTankTexture.dds
-912b345b3e2dde9867c58cd2abb23221  ./ModuleManager.ConfigCache
+a11ce7962d88180e36506574c87e04e2  ./ModuleManager.ConfigCache
 c27838152d2dafade8a1a901dfa0388f  ./kOS/Parts/KOSCherryLight/Metal_Silver.dds
 c71f267f8b0fd0386d65cf5902f3f77c  ./kOS/Parts/KOSCherryLight/Cherrylight.mu
 e515f6e1a203fdb80c69ed732d123a84  ./kOS/Parts/KOSCherryLight/dirty aluminum.dds
@@ -13414,7 +13382,7 @@ c8164876b6f66616d68387443621510c  ./kOS/Plugins/ICSharpCode.SharpZipLib.dll
 e285a6d7e8ca6a093515aa1f5f9d4c7c  ./kOS/kOS.version
 b01f65bdc3696f8db2d12723f0367bfa  ./kOS/Readme
 094d3fb508260344e0be4d2d1053695a  ./kOS/Flags/kOS-Logo.dds
-eecba293d241e28708fa81a1043e7bef  ./ModuleManager.ConfigSHA
+ff42bc3f0f0b55b5a5fe430b3820d9d5  ./ModuleManager.ConfigSHA
 35f81ffeebae7c03837083d83b39e502  ./DeployableEngines/Plugins/DeployableEngines.dll
 b3425bad9419412c9c7dd7b84bfc4eea  ./DeployableEngines/Versioning/DeployableEngines.version
 b61d7e284ed76de3328feabbf0b24e10  ./SmartParts/Parts/Fuel-Breakers/B2.cfg
@@ -14238,7 +14206,7 @@ bad454c9e9ff8fa1ba3fe4f8b81019dd  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KA
 17e122d8a708f8d9556da8b79367a350  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KACIconBig-Alarm.png
 aed15ee34fbbf206f72988f05a000cf3  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KACIconBig-PauseEffect_100.png
 460516930a972e5fc5f27c873df8bcea  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KACIconBig-WarpEffect2_100.png
-780a74b0974287064f83915cbab6b435  ./TriggerTech/KerbalAlarmClock/PluginData/settings.cfg
+e555d8ec5530904476d3d42db1c6931d  ./TriggerTech/KerbalAlarmClock/PluginData/settings.cfg
 4d0e8b9cccaa7eab8bf85c5266499be2  ./TriggerTech/KerbalAlarmClock/PluginData/Data/data_TransferModelData.csv
 e53651e59be79c813070b02ebf6a4992  ./TriggerTech/KerbalAlarmClock/PluginData/Data/data_TransferModelData.txt
 4e4f828568571e1979fdfccbf1236c1f  ./TriggerTech/KerbalAlarmClock/PluginData/Textures/img_listiconDN.png
@@ -14338,7 +14306,7 @@ be2052f2678d9dfc50c0b16f08380f7d  ./TriggerTech/TransferWindowPlanner/TransferWi
 a49a90548f99784cd485c289d33a2c76  ./TriggerTech/TransferWindowPlanner/ToolbarIcons/TWPIconBig.png
 4e6e00191aed7049d0d391598c22dde1  ./TriggerTech/TransferWindowPlanner/ToolbarIcons/TWPIcon.png
 ae5a1685adb9b1e4dc4f0591e56fde81  ./TriggerTech/TransferWindowPlanner/TransferWindowPlanner.dll
-9d9208b1f49d52d1fbdc851f5f48b545  ./TriggerTech/TransferWindowPlanner/PluginData/settings.cfg
+1025a4a0c0117a23fd09ed16ecd0964d  ./TriggerTech/TransferWindowPlanner/PluginData/settings.cfg
 ec7823a09e796f88ecb89e49c85d6982  ./TriggerTech/TransferWindowPlanner/Textures/img_SeparatorHorizontal.png
 28a7ee1e4b280a5310f4c82d1faa988f  ./TriggerTech/TransferWindowPlanner/Textures/img_buttonCopy.png
 f5f44930ca9fc50798e512e64dc639c8  ./TriggerTech/TransferWindowPlanner/Textures/img_buttonKAC.png
@@ -15906,7 +15874,7 @@ d7a468d9808d3f33c62c6d43c331f260  ./DecouplerShroud/Textures/TopDotNor.dds
 d4a2aadc11b9252059cf585bb7cd88d5  ./DecouplerShroud/Textures/SurfDefaultNor.dds
 031cf40e8cbde2b17801c550d8a96270  ./DecayingRTGs/NFElectricalRTGPatch.cfg
 e59a69f1d18d81a085cf099e16199fb0  ./000_KSPe.dll
-7199633bbd491ff2ae131e21bb7b2bdb  ./ModuleManager.TechTree
+993388dd2bdb531d5f2a1c60ccd2c310  ./ModuleManager.TechTree
 52b4d298d4f3b93c05591a9ca86f7f10  ./PreciseNode/Plugins/PreciseNode.dll
 3911005b4acb2657f4f0f75accb36751  ./PreciseNode/Plugins/PreciseNode.dll.mdb
 6793739e9592576c336afdf1bac3d2a3  ./PreciseNode/Plugins/PluginData/PreciseNode/config.xml
@@ -16047,7 +16015,7 @@ a98e83d4caf416e3c0f9b94a11d07068  ./FerramAerospaceResearch/FAR.version
 bb3e9dc6d3ae904fb56438a9cf742913  ./FerramAerospaceResearch/CustomFARGUIColors.cfg
 217289a76bf6b793894ca101a1ed9d81  ./FerramAerospaceResearch/FARAnimOverrides.cfg
 d98746b508211b373ff30f7c8c678c08  ./FerramAerospaceResearch/Plugins/FerramAerospaceResearch.dll
-842f9bf0c00c9f16dce31d3c2dbaba58  ./FerramAerospaceResearch/Plugins/PluginData/FerramAerospaceResearch/config.xml
+126130aa26d4f0bf606e1efb36d281b1  ./FerramAerospaceResearch/Plugins/PluginData/FerramAerospaceResearch/config.xml
 fa41b618120d13041a01850e592ab1ce  ./FerramAerospaceResearch/Plugins/ferramGraph.dll
 4b58698da8f7bb433ced5d251ca0f058  ./FerramAerospaceResearch/Plugins/Scale_Redist.dll
 61350e4e746ced3b69f128c39775db2b  ./FerramAerospaceResearch/RealChuteLite/RealChuteLite.cfg
@@ -16257,7 +16225,7 @@ cc66952d3688794487c49bb2dd852f23  ./000_USITools/Manufacturing_N.png
 b834737704cc1ffdc2e51752fb701195  ./MPUtils/Plugins/Maritime Pack_off.png
 6097bf55bf3a4ed63284b770846bbef4  ./MPUtils/Plugins/Maritime Pack_on.png
 98a2d11e093a33d8726471e2929ffbaf  ./MPUtils/Plugins/MPEngineSounds.dll
-1839addbf7285b22fdb0bbef39efaab4  ./MPUtils/Plugins/PluginData/MPLog.dat
+f20bf3ea07826e71f121d4a5fb5e8b4a  ./MPUtils/Plugins/PluginData/MPLog.dat
 8692107b936727697a862f1727b84a99  ./MPUtils/Plugins/PluginData/CVFlightDeck/config.xml
 da8cd5334680c5b2f5027ed14e66c835  ./MPUtils/Plugins/PluginData/MPUtils/config.xml
 02b916f20fe088e2e1bd6d61f13df864  ./MPUtils/Plugins/1869_on.png
@@ -20055,6 +20023,39 @@ fc78f713911f84f4f6819981f7c5bd55  ./DMagicUtilities/ContractsWindow/PluginData/S
 cf3f7a0b1d117d3620911626f56ab6a3  ./DMagicUtilities/ContractsWindow/Resources/contracts_window_prefabs.cwp
 2283570c51dbdcb8e4cfca48ecfb6de7  ./DMagicUtilities/ContractsWindow/Resources/ContractsIconApp.png
 5622a164eaced9bef2f34b7fbf46a9b5  ./DMagicUtilities/ContractsWindow/Resources/Localization/ContractLocalization.cfg
+92823a5dcfd9e6560bdb517726ba69f3  ./DMagicUtilities/CapCom/PluginData/Settings.cfg
+4b7ada5e4dcecef10e32cfee6545c6ee  ./DMagicUtilities/CapCom/ReadMe.txt
+d3e7c1888a5272e03a3b43b7b25d71d4  ./DMagicUtilities/CapCom/CapCom.dll
+e9aad887af2e52ed3e236f0922eb9146  ./DMagicUtilities/CapCom/License.txt
+ade05a8831b4e6f29955ee4aa00c59fb  ./DMagicUtilities/CapCom/Textures/WindowTex.dds
+42b6ab5fafe15d9b59067bedee48e3b1  ./DMagicUtilities/CapCom/Textures/OrderDesc.dds
+783dbf40652fdd61a4f40e20f998b210  ./DMagicUtilities/CapCom/Textures/ScienceIcon.dds
+868c2313de94955bd951f8098789f471  ./DMagicUtilities/CapCom/Textures/GoldStarVertical.dds
+5006ca914981cb74a7ef91c2c970ea67  ./DMagicUtilities/CapCom/Textures/GoldStarThree.dds
+bfb92058926a755ae97df91aebab8f0b  ./DMagicUtilities/CapCom/Textures/OrderAsc.dds
+40f91425ccf260e3e642947235c18270  ./DMagicUtilities/CapCom/Textures/CapComAppIcon.png
+0a7b967e8207fa0fa9005dfc462c338f  ./DMagicUtilities/CapCom/Textures/SortDifficultyIcon.dds
+5f27999e433febe0c6eb9d546c07a5f2  ./DMagicUtilities/CapCom/Textures/SortPlanetsIcon.dds
+c518d5f49ca803408df6fe4af09c956a  ./DMagicUtilities/CapCom/Textures/DropDownTex.dds
+adc03ceb7c4abe32adf0555f2427abec  ./DMagicUtilities/CapCom/Textures/CloseNotesIcon.dds
+c96eaefa940e467ad53c65e9ee7d28c3  ./DMagicUtilities/CapCom/Textures/GoldStarTwoVertical.dds
+5448de2f6ecdf9390ebfe0b13d4e893e  ./DMagicUtilities/CapCom/Textures/ResizeIcon.dds
+ac6fd2d84b11cbd53c14e1065e634b67  ./DMagicUtilities/CapCom/Textures/EmptyBoxIcon.dds
+57701369d0c1ffc703fa4474e0f63212  ./DMagicUtilities/CapCom/Textures/ProgressIconOff.dds
+5fe42ef5d804491003b497b7d2a6b832  ./DMagicUtilities/CapCom/Textures/ProgressIconOn.dds
+a3242a5dd67e4de8f810a43db132a4f6  ./DMagicUtilities/CapCom/Textures/CheckBoxIcon.dds
+60579e68e25b441e683e320604403651  ./DMagicUtilities/CapCom/Textures/OpenNotesIcon.dds
+e04d23a4bca32b9cc45ff878eafcc683  ./DMagicUtilities/CapCom/Textures/SortTimeIcon.dds
+12e775c2589e3742f764309e0d5916a7  ./DMagicUtilities/CapCom/Textures/CapComToolbarIcon.png
+39d215d82e73e54b2a340b196bd4654d  ./DMagicUtilities/CapCom/Textures/ToolbarSettingsIcon.dds
+d3dbb4e28b0f830f3859b89ead456449  ./DMagicUtilities/CapCom/Textures/RepRedIcon.dds
+ad8f1973610e68c0daa289b3ceceb4c9  ./DMagicUtilities/CapCom/Textures/FailBoxIcon.dds
+8bbbf3157d2ec72d6c3003b796c6bedc  ./DMagicUtilities/CapCom/Textures/FundsGreenIcon.dds
+78ee0b1e6e82a1daa6928e322f8a1379  ./DMagicUtilities/CapCom/Textures/GoldStarTwo.dds
+7e85dd061c82146ba95783e03ea447c3  ./DMagicUtilities/CapCom/Textures/GoldStar.dds
+1f41ad4f725a967e6ee4c15058ab4c6d  ./DMagicUtilities/CapCom/Textures/ButtonHover.dds
+50625f71d345658a38b5975577afee49  ./DMagicUtilities/CapCom/Textures/GoldStarThreeVertical.dds
+0af404294077ed9dd2b2ce8e7b7a21a1  ./DMagicUtilities/CapCom/CapCom.version
 1135844c8cf770b65ac132aa0151d0c6  ./DMagicUtilities/ContractParser/ContractParser.version
 96177bdfb00f5462eaefdf9a0df5321b  ./DMagicUtilities/ContractParser/ContractParser.dll
 da3260c335940968faab30d836e646db  ./DMagicUtilities/ContractParser/What Is Contract Parser.txt
@@ -22127,8 +22128,8 @@ e51e25f980e11c2c474dcf89771603d6  ./Trajectories/Plugin/Trajectories.dll
 9912b7332f941168f045a434a09d4dfe  ./FMRS/license.txt
 8ce9eaa6883af97d2e8b96b932a49f60  ./FMRS/Plugins/FMRS.dll
 c725cf1d9fec80595147c97af7c6dba0  ./FMRS/Plugins/FMRS.dll.mdb
-3aa0eed4d717204917fac3065bbdf3b6  ./FMRS/Plugins/PluginData/FMRS/record.txt
-fb786de67a3a0268e0632343cf2ae50f  ./FMRS/Plugins/PluginData/FMRS/save.txt
+d9450c5f91e2b8f7a2e9fde3999a2711  ./FMRS/Plugins/PluginData/FMRS/record.txt
+306aa0e2c2197f19a95e94298a2a447a  ./FMRS/Plugins/PluginData/FMRS/save.txt
 d41d8cd98f00b204e9800998ecf8427e  ./FMRS/Plugins/PluginData/FMRS/recover.txt
 991be18b86195caaa07bc69b4fcd6995  ./FMRS/MiniAVC.dll
 86e8e961b28b9d670f3d8e074aec594d  ./FMRS/FMRS_MM.cfg
