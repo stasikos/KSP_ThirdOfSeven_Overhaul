@@ -5,7 +5,7 @@
 CURRENTDIR="$(pwd)"
 
 cd ..
-find . -type f -exec md5sum {} \; | grep -av "$(basename $CURRENTDIR)" | grep -v ".log" >  "$CURRENTDIR/gamefiles.txt"
+find . -type f -exec md5sum {} \; | grep -av "$(basename $CURRENTDIR)" | grep -v ".log" | grep -v "AtmosphereAutopilot" >  "$CURRENTDIR/gamefiles.txt"
 
 cd "$CURRENTDIR"
 
