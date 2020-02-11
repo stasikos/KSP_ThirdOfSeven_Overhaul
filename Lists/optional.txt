@@ -12,3 +12,5 @@ ShipManifest
 JSI
 EvaFollower
 FinalFrontier
+Nereid
+Nereid/FinalFrontier
