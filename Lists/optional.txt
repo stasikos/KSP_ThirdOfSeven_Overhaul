@@ -6,3 +6,9 @@ KronalVesselViewer
 TriggerTech
 TriggerTech/KerbalAlarmClock
 MechJeb2
+Diazo
+Diazo/AGExt
+ShipManifest
+JSI
+EvaFollower
+FinalFrontier

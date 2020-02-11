@@ -28,3 +28,4 @@ KWRocketry
 KerbalFoundries
 KSPWheel
 MagicSmokeIndustries
+SHED

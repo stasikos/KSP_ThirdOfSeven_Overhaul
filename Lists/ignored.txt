@@ -4,3 +4,4 @@ ModuleManager.Physics
 ModuleManager.TechTree
 toolbar-settings.dat
 WBIPlayMode.cfg
+FinalFrontier.dat

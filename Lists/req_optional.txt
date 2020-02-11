@@ -1,2 +1,5 @@
 SquadExpansion
 RosterManager
+DecayingRTGs
+DeployableEngines
+DynamicBatteryStorage
