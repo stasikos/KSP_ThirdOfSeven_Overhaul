@@ -11,6 +11,6 @@ Diazo/AGExt
 ShipManifest
 JSI
 EvaFollower
-FinalFrontier
 Nereid
 Nereid/FinalFrontier
+CameraTools
