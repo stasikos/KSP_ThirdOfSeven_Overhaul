@@ -392,7 +392,7 @@ d19a722d56b9bdc89441de194bdf65fa  ./RealPlume-Stock/VenStockRevamp/ionEngine.cfg
 b0bbf2dd1556b092d5fe2c86e23b6cb8  ./RealPlume-Stock/VenStockRevamp/solidBooster_sm.cfg
 43caf8b0ca43ced11dfb375be2803370  ./RealPlume-Stock/VenStockRevamp/engineLargeSkipper.cfg
 72098c9b019770730f109368bd346d8f  ./RealPlume-Stock/VenStockRevamp/liquidEngine2-2.cfg
-e24e9542d692ab3034a514c70093db3a  ./toolbar-settings.dat
+47318133603ed100c894d0ce255b5f9a  ./toolbar-settings.dat
 96fa2355217e4a601d4c842ed9a4c27f  ./RosterManager/Plugins/PluginData/RMSettings.dat
 a2864190a01664e0fd0559bd56e57a02  ./RosterManager/Plugins/RosterManager.dll
 40b001c1a2fc1cfacb8f2e87f62398d7  ./RosterManager/RosterManager.version
@@ -1112,7 +1112,7 @@ ff20e125ac47d489930bae218fbb217d  ./NRAP/NRAP.version
 4fb2cce3eec79e46ae78c8787a6a4817  ./[x] Science!/[x] Science!.version
 0323ddbcf1069b88e30fa03356af267f  ./[x] Science!/MiniAVC.dll
 5e9da9a35dcfa0974be8a489d16d6d22  ./[x] Science!/LICENSE.txt
-fd5390aa8840e20d0ec181995bd62e09  ./[x] Science!/PluginData/[x] Science!/settings.cfg
+6535e00b454eed6755cf53babc57c555  ./[x] Science!/PluginData/[x] Science!/settings.cfg
 510dbb9b0305904384ed0eab44583913  ./[x] Science!/bubbles.wav
 ad43168df35a57d272486fc06551c55e  ./[x] Science!/README.md
 1c2679c386cea582a85154f690e4c704  ./[x] Science!/[x] Science!.dll
@@ -2871,7 +2871,7 @@ dfe39abe7b779c7520cdf40b337f8c5f  ./HLAirships/Spaces/AirshipGondolaInt/catbridg
 cf1b2e0e41aed21f0fe7b6cc42acacbd  ./HLAirships/Spaces/AirshipGondolaInt/AirshipGondolaInt.cfg
 0f91ce39ac60eaaafd67a94ff743d145  ./HLAirships/Spaces/AirshipGondolaInt/Seats3.png
 75a2763cb1a6c58a711aa774b7a5b9a9  ./HLAirships/Spaces/AirshipGondolaInt/AirshipGondolaInt.mu
-3d39cef21642d579855cd084e8331d5d  ./HLAirships/Icons/AirshipIcon.png
+3bc4cc17d3eb096e799b8911bc513161  ./HLAirships/Icons/AirshipIcon.png
 89c9c4224bfa87e208cc3bd23325d02d  ./HLAirships/Icons/AirshipIconOn.png
 d4bb2f9396697d90d99f9d4b8e1fbbf1  ./HLAirships/Icons/HLOnIcon.png
 7dc974770707fcae2b3972cec9ef42a3  ./HLAirships/Icons/HLOffIcon.png
@@ -4190,7 +4190,7 @@ d2b9d0ac889bfd87fb9034bf4a86e946  ./KerbalConstructionTime/KCT_Presets/default.c
 9596364700f0d0d141547dd829757188  ./KerbalConstructionTime/KCT_Presets/7Days.cfg
 5d3b6276918b36b28b66d562da3a87cf  ./KerbalConstructionTime/KCT_Presets/rlowtech.cfg
 3c166cef514312b532c25bb3fe7aca98  ./KerbalConstructionTime/KCT_ModuleTemplates.cfg
-adcbfcd45eec1efb2c57d37f8eda6b96  ./KerbalConstructionTime/PluginData/KCT_Windows.txt
+0643f506958068411db8754e696408a9  ./KerbalConstructionTime/PluginData/KCT_Windows.txt
 4ff9c77227aa984ea720d2e50cf890c6  ./KerbalConstructionTime/PluginData/KCT_Config.txt
 d896268ab67688aa53d714238332c1f7  ./KerbalConstructionTime/.version
 d32239bcb673463ab874e80d47fae504  ./KerbalConstructionTime/License.txt
@@ -7300,10 +7300,8 @@ cdb85b378b8524a4be811f3bbd106a36  ./Severedsolo/OhScrap/MM Patches/ReactionWheel
 5b51ca10f01d0b207082db2f0627921a  ./Severedsolo/OhScrap/MM Patches/ControlSurfaceFailureModule.cfg
 5061f6bbd2b1a34795dd854bb7331b6a  ./Severedsolo/OhScrap/Icon.png
 2e2d799a0fe47d8b0e287ad971fb96a9  ./Severedsolo/OhScrap/License.txt
-afde63b2ed4ff99d04a09f73dd0027a3  ./Severedsolo/OhScrap/Logs/2019-12-25 11-51-14.txt
-13156e78a4b8d6befb374485fc0d4666  ./Severedsolo/OhScrap/Logs/2019-12-25 11-53-47.txt
-cad84c8c178c025edf649ef8b3683be2  ./Severedsolo/OhScrap/Logs/2019-12-25 11-44-49.txt
-c3a2e8b40513fb8be8dbb0802fcacb92  ./Severedsolo/OhScrap/Logs/2019-12-25 13-15-57.txt
+8d55745ed69b7878b183f04f20812d95  ./Severedsolo/OhScrap/Logs/2020-02-27 00-07-02.txt
+f82924432cf492954134a156a9b93c92  ./Severedsolo/OhScrap/Logs/2020-02-26 23-37-37.txt
 6994753635decbd4dbc4ebbeb00c3c04  ./ThunderAerospace/TacLifeSupport/Localization.cfg
 6961e756d4596285b56b69af3ee1d85a  ./ThunderAerospace/TacLifeSupport/LifeSupport.cfg
 b4072b1dbfe9acbd8669be229135e023  ./ThunderAerospace/TacLifeSupport/MM_AddResources.cfg
@@ -11984,7 +11982,7 @@ c932fffee9e7500c639138f4b64099b9  ./KerbalEngineer/Parts/Engineer7500/model000.m
 0a154f99a0f21fe9e8e72ba3759cc58b  ./KerbalEngineer/Settings/SectionLibraryTS.xml
 a42335f1fbeb4e82038e84d5b683cebc  ./KerbalEngineer/Settings/SectionLibrary.xml
 4315b05695e8c0fa2cb74e78d318a2e7  ./KerbalEngineer/Settings/GuiDisplaySize.xml
-787abda186e075ce0ac007d90494e99d  ./KerbalEngineer/Settings/BuildAdvanced.xml
+3b5b48f12d3ac82edfadb86c45cf0d3e  ./KerbalEngineer/Settings/BuildAdvanced.xml
 900d971bb1729198963d0c899060005f  ./KerbalEngineer/Settings/BuildOverlay.xml
 4c5a11a53ad70ee7c323504a33817531  ./KerbalEngineer/Settings/HelpStrings.xml
 18ef34ed21a6a31b47f14199c7accbb0  ./KerbalEngineer/Settings/ReadoutsConfig.xml
@@ -13320,7 +13318,7 @@ f1e38bcc492f6b151810579ab63f8c9f  ./KerbalReusabilityExpansion/GridFins/Fins Tex
 1e227cb79dde1dec7cdc8444dc596bd7  ./KerbalReusabilityExpansion/FuelTank/FuelTank.cfg
 46930615fdc539ac43b2fa0141dfc3d7  ./KerbalReusabilityExpansion/FuelTank/FuelTank.mu
 393299647bc5b36ce90392c8b07ce67a  ./KerbalReusabilityExpansion/FuelTank/FuelTankTexture.dds
-a11ce7962d88180e36506574c87e04e2  ./ModuleManager.ConfigCache
+5310b18d161c61831d2f217a14c9aeff  ./ModuleManager.ConfigCache
 c27838152d2dafade8a1a901dfa0388f  ./kOS/Parts/KOSCherryLight/Metal_Silver.dds
 c71f267f8b0fd0386d65cf5902f3f77c  ./kOS/Parts/KOSCherryLight/Cherrylight.mu
 e515f6e1a203fdb80c69ed732d123a84  ./kOS/Parts/KOSCherryLight/dirty aluminum.dds
@@ -13377,12 +13375,12 @@ cf5be22c0ddc54eed7cbd61b798ae4c0  ./kOS/GFX/font-height-button.png
 501bc9c218c8d66ab4cdafe32ac1c824  ./kOS/kOS-module-manager.cfg
 bd94fbf1d484c9bc72ffc56daf17a462  ./kOS/Plugins/kOS.Safe.dll
 cead5d8caff85ed3b95b71ea7e7841d9  ./kOS/Plugins/kOS.dll
-a903b0c8268140d602dc6f323c0492e0  ./kOS/Plugins/PluginData/kOS/config.xml
+648622e1e1a0269aa456acd86219eab0  ./kOS/Plugins/PluginData/kOS/config.xml
 c8164876b6f66616d68387443621510c  ./kOS/Plugins/ICSharpCode.SharpZipLib.dll
 e285a6d7e8ca6a093515aa1f5f9d4c7c  ./kOS/kOS.version
 b01f65bdc3696f8db2d12723f0367bfa  ./kOS/Readme
 094d3fb508260344e0be4d2d1053695a  ./kOS/Flags/kOS-Logo.dds
-ff42bc3f0f0b55b5a5fe430b3820d9d5  ./ModuleManager.ConfigSHA
+86f57695332dd791e0a9d45e75e86771  ./ModuleManager.ConfigSHA
 35f81ffeebae7c03837083d83b39e502  ./DeployableEngines/Plugins/DeployableEngines.dll
 b3425bad9419412c9c7dd7b84bfc4eea  ./DeployableEngines/Versioning/DeployableEngines.version
 b61d7e284ed76de3328feabbf0b24e10  ./SmartParts/Parts/Fuel-Breakers/B2.cfg
@@ -14206,7 +14204,7 @@ bad454c9e9ff8fa1ba3fe4f8b81019dd  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KA
 17e122d8a708f8d9556da8b79367a350  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KACIconBig-Alarm.png
 aed15ee34fbbf206f72988f05a000cf3  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KACIconBig-PauseEffect_100.png
 460516930a972e5fc5f27c873df8bcea  ./TriggerTech/KerbalAlarmClock/ToolbarIcons/KACIconBig-WarpEffect2_100.png
-e555d8ec5530904476d3d42db1c6931d  ./TriggerTech/KerbalAlarmClock/PluginData/settings.cfg
+e0ea156a93ac56f69c961d7ce4a8fc8c  ./TriggerTech/KerbalAlarmClock/PluginData/settings.cfg
 4d0e8b9cccaa7eab8bf85c5266499be2  ./TriggerTech/KerbalAlarmClock/PluginData/Data/data_TransferModelData.csv
 e53651e59be79c813070b02ebf6a4992  ./TriggerTech/KerbalAlarmClock/PluginData/Data/data_TransferModelData.txt
 4e4f828568571e1979fdfccbf1236c1f  ./TriggerTech/KerbalAlarmClock/PluginData/Textures/img_listiconDN.png
@@ -14306,7 +14304,7 @@ be2052f2678d9dfc50c0b16f08380f7d  ./TriggerTech/TransferWindowPlanner/TransferWi
 a49a90548f99784cd485c289d33a2c76  ./TriggerTech/TransferWindowPlanner/ToolbarIcons/TWPIconBig.png
 4e6e00191aed7049d0d391598c22dde1  ./TriggerTech/TransferWindowPlanner/ToolbarIcons/TWPIcon.png
 ae5a1685adb9b1e4dc4f0591e56fde81  ./TriggerTech/TransferWindowPlanner/TransferWindowPlanner.dll
-1025a4a0c0117a23fd09ed16ecd0964d  ./TriggerTech/TransferWindowPlanner/PluginData/settings.cfg
+0a3e73e7c43d1dad3d357a655b6cabeb  ./TriggerTech/TransferWindowPlanner/PluginData/settings.cfg
 ec7823a09e796f88ecb89e49c85d6982  ./TriggerTech/TransferWindowPlanner/Textures/img_SeparatorHorizontal.png
 28a7ee1e4b280a5310f4c82d1faa988f  ./TriggerTech/TransferWindowPlanner/Textures/img_buttonCopy.png
 f5f44930ca9fc50798e512e64dc639c8  ./TriggerTech/TransferWindowPlanner/Textures/img_buttonKAC.png
@@ -15874,7 +15872,7 @@ d7a468d9808d3f33c62c6d43c331f260  ./DecouplerShroud/Textures/TopDotNor.dds
 d4a2aadc11b9252059cf585bb7cd88d5  ./DecouplerShroud/Textures/SurfDefaultNor.dds
 031cf40e8cbde2b17801c550d8a96270  ./DecayingRTGs/NFElectricalRTGPatch.cfg
 e59a69f1d18d81a085cf099e16199fb0  ./000_KSPe.dll
-993388dd2bdb531d5f2a1c60ccd2c310  ./ModuleManager.TechTree
+64edcae77493bd5cf09f897f54780e18  ./ModuleManager.TechTree
 52b4d298d4f3b93c05591a9ca86f7f10  ./PreciseNode/Plugins/PreciseNode.dll
 3911005b4acb2657f4f0f75accb36751  ./PreciseNode/Plugins/PreciseNode.dll.mdb
 6793739e9592576c336afdf1bac3d2a3  ./PreciseNode/Plugins/PluginData/PreciseNode/config.xml
@@ -16015,7 +16013,7 @@ a98e83d4caf416e3c0f9b94a11d07068  ./FerramAerospaceResearch/FAR.version
 bb3e9dc6d3ae904fb56438a9cf742913  ./FerramAerospaceResearch/CustomFARGUIColors.cfg
 217289a76bf6b793894ca101a1ed9d81  ./FerramAerospaceResearch/FARAnimOverrides.cfg
 d98746b508211b373ff30f7c8c678c08  ./FerramAerospaceResearch/Plugins/FerramAerospaceResearch.dll
-126130aa26d4f0bf606e1efb36d281b1  ./FerramAerospaceResearch/Plugins/PluginData/FerramAerospaceResearch/config.xml
+e160bbe51f1af9b3c620faa930354e5b  ./FerramAerospaceResearch/Plugins/PluginData/FerramAerospaceResearch/config.xml
 fa41b618120d13041a01850e592ab1ce  ./FerramAerospaceResearch/Plugins/ferramGraph.dll
 4b58698da8f7bb433ced5d251ca0f058  ./FerramAerospaceResearch/Plugins/Scale_Redist.dll
 61350e4e746ced3b69f128c39775db2b  ./FerramAerospaceResearch/RealChuteLite/RealChuteLite.cfg
@@ -16225,7 +16223,7 @@ cc66952d3688794487c49bb2dd852f23  ./000_USITools/Manufacturing_N.png
 b834737704cc1ffdc2e51752fb701195  ./MPUtils/Plugins/Maritime Pack_off.png
 6097bf55bf3a4ed63284b770846bbef4  ./MPUtils/Plugins/Maritime Pack_on.png
 98a2d11e093a33d8726471e2929ffbaf  ./MPUtils/Plugins/MPEngineSounds.dll
-f20bf3ea07826e71f121d4a5fb5e8b4a  ./MPUtils/Plugins/PluginData/MPLog.dat
+d733b98ca8a4187fa14dca0fa4b1c8b3  ./MPUtils/Plugins/PluginData/MPLog.dat
 8692107b936727697a862f1727b84a99  ./MPUtils/Plugins/PluginData/CVFlightDeck/config.xml
 da8cd5334680c5b2f5027ed14e66c835  ./MPUtils/Plugins/PluginData/MPUtils/config.xml
 02b916f20fe088e2e1bd6d61f13df864  ./MPUtils/Plugins/1869_on.png
@@ -20113,9 +20111,9 @@ c12c1efa8cf98db1226a1114e1b68008  ./MechJeb2/Plugins/PluginData/MechJeb2/mechjeb
 131c99568a5a4146a444a05104254e53  ./MechJeb2/Plugins/PluginData/MechJeb2/mechjeb_settings_type_V22.cfg
 131c99568a5a4146a444a05104254e53  ./MechJeb2/Plugins/PluginData/MechJeb2/mechjeb_settings_type_FungEye Orbital Telescope.cfg
 ba59ed193b28e750b4649568f2dc21a2  ./MechJeb2/Plugins/PluginData/MechJeb2/mechjeb_settings_type_Stearwing A300 Ship Probe.cfg
-de4ea339a98461d4d78c48122261bb51  ./MechJeb2/Plugins/PluginData/MechJeb2/mechjeb_settings_type_Kerbal X.cfg
-f73f996655275de2c4865e5bfdfee5db  ./MechJeb2/Plugins/PluginData/MechJeb2/mechjeb_settings_type_Kerbal X Probe.cfg
-0072f771a08f763a86c5b4ad7072d65c  ./MechJeb2/Plugins/PluginData/MechJeb2/mechjeb_settings_global.cfg
+26cf9116a6885943b36697076475525d  ./MechJeb2/Plugins/PluginData/MechJeb2/mechjeb_settings_type_Kerbal X.cfg
+26cf9116a6885943b36697076475525d  ./MechJeb2/Plugins/PluginData/MechJeb2/mechjeb_settings_type_Kerbal X Probe.cfg
+a1288f30e94bc93dca202ec3a7d1abba  ./MechJeb2/Plugins/PluginData/MechJeb2/mechjeb_settings_global.cfg
 f18c21d3f5e3df01c3f9e8883902e8a4  ./MechJeb2/Plugins/MechJeb2.dll
 072cf0a4f622dd5a271b4475287d819e  ./MechJeb2/LICENSE.md
 f23d3fc21891553acc81a705274adce2  ./MechJeb2/Bundles/shaders.bundle
@@ -22128,8 +22126,8 @@ e51e25f980e11c2c474dcf89771603d6  ./Trajectories/Plugin/Trajectories.dll
 9912b7332f941168f045a434a09d4dfe  ./FMRS/license.txt
 8ce9eaa6883af97d2e8b96b932a49f60  ./FMRS/Plugins/FMRS.dll
 c725cf1d9fec80595147c97af7c6dba0  ./FMRS/Plugins/FMRS.dll.mdb
-d9450c5f91e2b8f7a2e9fde3999a2711  ./FMRS/Plugins/PluginData/FMRS/record.txt
-306aa0e2c2197f19a95e94298a2a447a  ./FMRS/Plugins/PluginData/FMRS/save.txt
+01cddb2a80f79f5414b26dd19ef2e00c  ./FMRS/Plugins/PluginData/FMRS/record.txt
+3dd32e7b2fbd56a11c7b8f929b9b5582  ./FMRS/Plugins/PluginData/FMRS/save.txt
 d41d8cd98f00b204e9800998ecf8427e  ./FMRS/Plugins/PluginData/FMRS/recover.txt
 991be18b86195caaa07bc69b4fcd6995  ./FMRS/MiniAVC.dll
 86e8e961b28b9d670f3d8e074aec594d  ./FMRS/FMRS_MM.cfg
