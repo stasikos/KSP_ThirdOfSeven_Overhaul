@@ -172,6 +172,7 @@ OxiTankSmallFlat,ALL
 radiatorRadialSmall,ALL
 radiatorRadialMedium,ALL
 radiatorRadialLarge,ALL
+2mToroidFuOx,ALL
 fuelTank4-0,ALL
 fuelTank.extralong,ALL
 M3X.ElevonA,ALL
@@ -184,6 +185,9 @@ M3X.WingSegmentD,ALL
 M3X.WingSegmentE,ALL
 M3X.WingSegmentF,ALL
 M3X.WingSegmentG,ALL
+mk2to3ServM,ALL
+mk2to3ServMMono,ALL
+sz3to4ServM,ALL
 Liaoning,ALL
 Enterprise,ALL
 cycloneProp,ALL
@@ -381,6 +385,7 @@ HGR.RCS.Tank,ALL
 HGR.1875.125.Adapter,ALL
 HGR.1875.250.Adapter,ALL
 fairingSize1p5HGR,ALL
+DragonFuelTank,ALL
 argon-25-2,ALL
 argon-25-1,ALL
 argon-25-3,ALL
