@@ -173,6 +173,10 @@ radiatorRadialSmall,ALL
 radiatorRadialMedium,ALL
 radiatorRadialLarge,ALL
 2mToroidFuOx,ALL
+CWRamAirIntakeMK3,ALL
+SXTPWR2800,ALL
+cycloneProp2,ALL
+fighterProp,ALL
 fuelTank4-0,ALL
 fuelTank.extralong,ALL
 M3X.ElevonA,ALL
@@ -344,6 +348,7 @@ hanglel,ALL
 hangles,ALL
 vanglel,ALL
 vangles,ALL
+KE.StirlingEngine,ALL
 SR.Tank.625.01,ALL
 SR.Tank.35.01,ALL
 SR.LaunchStick,ALL
