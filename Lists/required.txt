@@ -1,3 +1,5 @@
 Squad
 zzz_ThirdOfSeven
-ModuleManager.4.0.2.dll
+ModuleManager.4.2.3.dll
+SpaceTuxLibrary
+ModuleManagerWatchDog

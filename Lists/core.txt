@@ -40,8 +40,7 @@ ProceduralParts
 RecoveryController
 001_ToolbarControl
 FMRS
-Severedsolo
-Severedsolo/OhScrap
+OhScrap
 StageRecovery
 ScrapYard
 Kopernicus

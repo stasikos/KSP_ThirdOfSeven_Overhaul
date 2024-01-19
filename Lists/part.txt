@@ -7,7 +7,7 @@ WildBlueIndustries/Buffalo
 WildBlueIndustries/Heisenberg
 WildBlueIndustries/Pathfinder
 PatchManager
-HLAirships
+HLAirshipsCore
 CactEye
 FengistAnim
 Maritime Pack

@@ -1,4 +1,8 @@
-[x] Science!
+ContractPacks
+ContractPacks/GAP
+ContractPacks/FieldResearch
+ContractPacks/RemoteTech
+[x]_Science!
 BonVoyage
 WaypointManager
 EditorExtensionsRedux
@@ -14,3 +18,4 @@ PhysicsRangeExtender
 Strategia
 KerboKatz
 KerboKatz/SmallUtilities/KerbalScienceExchange
+REPOSoftTech/AmpYear
