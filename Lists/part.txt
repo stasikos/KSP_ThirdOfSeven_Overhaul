@@ -3,7 +3,7 @@ DMagicUtilities
 PhotonSail
 SurfaceExperimentPackage
 WildBlueIndustries
-WildBlueIndustries/Buffalo
+WildBlueIndustries/Buffalo2
 WildBlueIndustries/Heisenberg
 WildBlueIndustries/Pathfinder
 PatchManager

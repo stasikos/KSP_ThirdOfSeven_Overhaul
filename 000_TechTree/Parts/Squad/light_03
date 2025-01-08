@@ -1,0 +1,7 @@
+@PART[light_03]:FOR[Squad]
+{
+        size = rad_037
+        tier = 0
+        meta_level = 1
+        tech = light
+}
